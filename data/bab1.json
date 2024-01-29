@@ -1,0 +1,656 @@
+{
+    "wiridSubuh": [
+      {
+        "id": "1.1",
+        "arab": "أَسۡتَغۡفِرُ اللّٰهَ (×٣) (رَوَاهُ مُسۡلِمٌ)",
+        "terjemahan": "Aku mohon ampun kepada Allah.” (3x) (HR. Muslim)"
+      },
+      {
+        "id": "1.2",
+        "arab": "اَللّٰهُمَّ اَنۡتَ السَّلَامُ وَمِنۡكَ السَّلَامُ تَبَارَكۡتَ يَاذَا الۡجَلَالِ وَالۡإِكۡرَامِ (رَوَاهُ مُسۡلِمٌ)",
+        "terjemahan": "Wahai Allah, Engkau adalah keselamatan dan dari-Mu keselamatan, Maha Suci Engkau, wahai Dzat yang Memiliki keagungan dan kemuliaan. (HR. Muslim)"
+      },
+      {
+        "id": "1.3",
+        "arab": "لَآ إِلٰهَ اِلَّا اللّٰهُ  وَحۡدَهُ لَاشَرِيۡكَ لَهُ, لَهُ الۡمُلۡكُ وَلَهُ الۡحَمۡدُ يُحۡيِيۡ وَيُمِيۡتُ وَهُوَ عَلَى كُلِّ شۡئٍ قَدِيۡرٌ (١٠ ×) (رَوَاهُ مُسۡلِمٌ) ",
+        "terjemahan": "Tiada Tuhan selain Allah Yang Esa, tidak ada sekutu bagi-Nya, bagi-Nya kerajaan dan pujian, Dia menghidupkan dan mematikan dan Dia atas segala sesuatu Maha berkuasa.(10x) (HR. Muslim)"
+      },
+      {
+        "id": "1.4",
+        "arab": "اَللّٰهُمَّ أَجِرۡ نِيۡ مِنَ النَّارِ (٧×) (رَوَاهُ اَحۡمَدُ وَاَبُوۡ دَاوُدَ)",
+        "terjemahan": "Ya Allah lindungilah aku dari api neraka. (7x) (HR. Ahmad dan Abu Dawud)"
+      },
+      {
+        "id": "1.5",
+        "arab": "اَللّٰهُمَّ أَعِنِّي عَلَى ذِكۡرِكَ وَشُكۡرِكَ وَحُسۡنِ عِبَادَتِكَ) رَوَاهُ أَبُو دَاوُدَ",
+        "terjemahan": " Ya Allah, tolonglah aku untuk mengingat-Mu, bersyukur kepada-Mu dan memperbaiki ibadah kepada-Mu. (HR. Abu Dawud) "
+      }, {
+        "id": "1.6",
+        "arab": "(أَسۡتَغۡفِرُ اللّٰهَ(×٣٣) سُبۡحَانَ اللّٰهِ(٣٣×) اَلۡحَمۡدُ لِلّٰهِ(٣٣×) اَللّٰهُ اَكۡبَرُ(٣٣ ×) (رَوَاهُ مُسۡلِمٌ",
+        "terjemahan": "Aku mohon ampun kepada Allah (33x) Mahasuci Allah (33x) segala puji bagi Allah (33x) Allah Maha Besar (33x)"
+      }, {
+        "id": "1.7",
+        "arab": "اَلۡحَمۡدُ لِلّٰهِ رَبِّ الۡعَالَمِيۡنَ حَمۡدًا يُوَافِيۡ نِعَمَهُ وَيُكَافِيۡ مَزِيۡدَهُ. يَا رَبَّنَا لَكَ الۡحَمۡدُ كَمَا يَنۡبَغِيۡ لِجَلَالِ وَجۡهِكَ وَعَظِيۡمِ سُلۡطَانِكَ (رَوَاهُ ابۡنُ مَاجَه) ",
+        "terjemahan": "Segala puji bagi Allah yang telah menyempurnakan nikmat dan karunia-Nya. Wahai Tuhan kami, bagi-Mu segala puji sesuai keagungan wajah-Mu dan kemegahan kerajaan-Mu. (HR. Ibnu Majah) "
+      }, {
+        "id": "1.8",
+        "arab": "اَللّٰهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى اٰلِ مُحَمَّـدٍ (رَوَاهُ أَصۡحَابُ السُّنَنِ)",
+        "terjemahan": "Ya Allah, sampaikanlah shalawat atas Nabi Muhammad dan atas keluarga Nabi Muhammad. (HR. Ashhabussunan)"
+      }, {
+        "id": "1.9",
+        "arab": "رَبِّ اغۡفِرۡ لِيۡ وَلِوَالِدَيَّ وَارۡحَمۡهُمَا كَمَا رَبَّيَانِيۡ صَغِيۡرًا",
+        "terjemahan": "Wahai Tuhanku, Ampunilah aku dan kedua orang tuaku dan kasihilah mereka sebagaimana mereka mengasihiku di waktu kecil."
+      }, {
+        "id": "1.10",
+        "arab": "رَبِّ اجۡعَلۡنِيۡ مُقِيۡمَ الصَّلَاةِ وَمِنۡ ذُرِّيَّتِيۡ. رَبَّنَا وَتَقَبَّلۡ دُعَآءِ. رَبَّنَا اغۡفِرۡ لِيۡ وَلِوَالِدَيَّ وَلِلۡمُؤۡمِنِيۡنَ يَوۡمَ يَقُوۡمُ الۡحِسَابِ (اِبۡرَاهِيۡمُ ٤٠-٤١)",
+        "terjemahan": "Ya Rabb, jadikanlah aku orang yang menegakkan sholat dan dari keturunanku juga, Ya Tuhan kami, terimalah do'a-do'a kami. Ya Tuhan kami,  ampunilah aku dan kedua orang tuaku dan orang-orang mukmin pada hari perhitungan ditegakkan. (QS. Ibrahim: 40-41)"
+      }, {
+        "id": "1.11",
+        "arab": "رَبِّ أَعُوۡذُ بِكَ مِنۡ هَمَزَاتِ الشَّيَاطِيۡنِ (اَلۡمُؤۡمِنُوۡنَ: ٩٧)",
+        "terjemahan": "Ya Rabb, aku berlindung kepada-Mu dari hembusan-hembusan syaithan. (QS. Al Mu’minun 97)"
+      },
+     
+
+
+      {
+        "id": "1.12",
+        "arab": "Wirid Al Qur'an surat Al Hasyr ayat 21-24: \n\nأَعُوۡذُ بِاللّٰهِ مِنَ الشَّيۡطٰنِ الرَّجِيۡمِ  لَوۡ أَنۡزَلۡنَا هٰذَا الۡقُرۡاٰنَ عَلَى جَبَلٍ لَّرَاَيۡتَهُۥ خَاشِعًا مُّتَصَدِّعًا مِّنۡ خَشۡيَةِ اللّٰهِ وَتِلۡكَ الۡاَمۡثَالُ نَضۡرِبُهَا لِلنَّاسِ لَعَلَّهُمۡ يَتَفَكَّرُوۡنَ. هُوَ اللّٰهُ الَّذِيۡ لَآ إِلٰهَ اِلَّا هُوَ عَالِمُ الۡغَيۡبِ وَالشَّهٰدَةِ هُوَ الرَّحۡمٰنُ الرَّحِيۡمُ. هُوَ اللّٰهُ الَّذِيۡ لَآ إِلٰهَ اِلَّا هُوَ الۡمَلِكُ الۡقُدُّوۡسُ السَّلَامُ الۡمُؤۡمِنُ الۡمُهَيۡمِنُ الۡعَزِيۡزُ الۡجَبَّارُ الۡمُتَكَبِّرُ سُبۡحَانَ اللّٰهِ عَمَّا يُشۡرِكُوۡنَ. هُوَ اللّٰهُ الۡخَالِقُ الۡبَارِئُ الۡمُصَوِّرُ لَهُ الۡاَسۡمَآءُ الۡحُسۡنَى يُسَبِّحُ لَهُۥ مَا فِي السَّمٰوَاتِ وَالۡاَرۡضِ وَهُوَ الۡعَزِيۡزُ الۡحَكِيۡمُ (اَلۡحَشۡرُ: ٢١-٢٤) ",
+        "terjemahan": "Kalau sekiranya Kami menurunkan Al Qur'an ini kepada sebuah gunung, pasti kamu akan melihatnya tunduk terpecah belah disebabkan takut kepada Allah. Dan demikianlah perumpamaan-perumpamaan itu Kami membuatnya untuk manusia agar mereka berpikir (21). Dialah Allah Dzat Yang tiada Tuhan selain Dia, Yang Mengetahui yang gaib dan yang nyata, Dialah Yang Maha Pengasih lagi Maha Penyayang (22). Dialah Allah Dzat Yang tiada Tuhan selain Dia, Yang Maha Memiliki, Yang Maha Suci, Maha Menyelamatkan, Yang Mengaruniakan keamanan, Yang Maha Memelihara, Yang Maha Perkasa, Yang Maha Kuasa, Yang  Memiliki segala keagungan, Maha Suci, Allah dari apa-apa yang mereka persekutukan (23). Dialah Allah Yang Menciptakan, Yang Mengadakan, Yang Membentuk Rupa, Yang Mempunyai nama-nama yang indah. Bertasbih kepada-Nya apa-apa yang ada di langit dan di bumi. Dan Dialah Yang Maha Perkasa lagi Maha Bijaksana (24). (Qs. Al Hasyr 21-24)"
+      }, {
+        "id": "1.13",
+        "arab": "أَعُوۡذُ بِكَلِمَاتِ اللّٰهِ التَّآمَّاتِ مِنۡ شَرِّ مَا خَلَقَ (٣×) (رَوَاهُ مُسۡلِمٌ)",
+        "terjemahan": "Aku berlindung dengan kalimat Allah yang sempurna dari keburukan apa-apa yang telah Ia  ciptakan. (3 X) (HR. Muslim) "
+      }, {
+        "id": "1.14",
+        "arab": "بِسۡمِ اللّٰهِ الَّذِيۡ لَا يَضُرُّ مَعَ اسۡمِهِ شَيۡئٌ فِي الۡاَرۡضِ وَلَا فِيۡ السَّمَآءِ وَهُوَ السَّمِيۡعُ  الۡعَلِيۡمُ (٣×) (رَوَاهُ التِّرۡمِذِي)  ",
+        "terjemahan": "Dengan nama Allah yang tidak mudharat sesuatu bersama nama-Nya baik di bumi maupun di langit dan Dia Maha Mendengar lagi Maha Mengetahui. (3x) (HR. At Tirmizi)"
+      }, {
+        "id": "1.15",
+        "arab": "اَللّٰهُمَّ اِنِّي أَعُوۡذُ بِكَ مِنۡ شَرِّ نَفۡسِيۡ وَمِنۡ شَرِّ كُلِّ دَآبَّةٍ اَنۡتَ اٰخِذٌ بِنَاصِيَتِهَا إِنَّ رَبِّيۡ عَلَى صِرَاطٍ مُسۡتَقِيۡمٍ (رَوَاهُ الۡبَيۡهَقِي)",
+        "terjemahan": "Ya Allah, aku berlindung kepada-Mu dari keburukan  diriku dan keburukan setiap makhluk yang Engkau memegang ubun-ubunnya, sesungguhnya Tuhanku berada di atas jalan yang lurus. (HR. Al-Baihaqi)"
+      }, {
+        "id": "1.16",
+        "arab": "اَللّٰهُمَّ إِنِّيۡ أَعُوۡذُ بِكَ مِنَ الۡهَمِّ وَالۡحَزۡنِ وَأَعُوۡذُ بِكَ مِنَ الۡعَجۡزِ وَالۡكَسَلِ وَأَعُوۡذُ بِكَ مِنَ الۡجُبۡنِ وَالۡبُخۡلِ وَأَعُوۡذُ بِكَ مِنۡ غَلَبَةِ الدَّيۡنِ وَقَهۡرِ الرِّجَالِ (رَوَاهُ الۡبُخَارِي)",
+        "terjemahan": "Ya Allah, aku berlindung kepada-Mu dari kemurungan dan kesedihan, dan aku berlindung kepada-Mu dari kelemahan dan kemalasan, dan aku berlindung kepada-Mu dari kepengecutan dan kebakhilan, dan aku berlindung kepada-Mu dari banyaknya hutang dan penguasaan orang. (HR. Bukhari) "
+      },
+      {
+        "id": "1.17",
+        "arab": "اَللّٰهُمَّ إِنِّيۡ أَعُوۡذُ بِكَ مِنۡ عِلۡمٍ لَا يَنۡفَعُ وَقَلۡبٍ لَا يَخۡشَعُ وَعَمَلٍ لَايُرۡفَعُ وَدُعآءٍ لَايُسۡمَعُ (رَوَاهُ مُسۡلِمٌ)",
+        "terjemahan": "Ya Allah, aku berlindung kepada-Mu dari ilmu yang tidak bermanfaat dan dari hati yang tidak khusyu', dan amal  yang tidak diterima, dan do'a yang tidak didengar (dikabulkan). (HR. Muslim)"
+      },
+      {
+        "id": "1.18",
+        "arab": "يَا حَيُّ يَا قَيُّوۡمُ يَا بَدِيۡعَ السَّمٰوَاتِ وَالۡاَرۡضِ يَا ذَاالۡجَلَالِ وَالۡإِكۡرَامِ لَآ إِلٰهَ اِلَّا اَنۡتَ بِرَحۡمَتِكَ أَسۡتَغِيۡثُ أَصۡلِحۡ لِيۡ شَأۡنِيۡ وَلَا تَكِلۡنِيۡ إِلَى نَفۡسِيۡ طَرۡفَةَ عَيۡنٍ (رَوَاهُ الۡحَاكِمُ)",
+        "terjemahan": "Wahai Dzat Yang Maha Hidup dan Maha Tegak (mengawasi), Dzat yang menghiasi langit dan bumi, Dzat yang memiliki keagungan dan kemuliaan. Tiada Tuhan selain Engkau, dengan rahmat-Mu daku mohon pertolongan, perbaikilah keadaanku dan janganlah Engkau serahkan urusanku kepada diriku sendiri sekejap matapun. (HR. Al-Hakim)"
+      },
+      {
+        "id": "1.19",
+        "arab": "أَصۡبَحۡنَا وَأَصۡبَحَ الۡمُلۡكُ لِلّٰهِ رَبِّ الۡعَالَمِيۡنَ. اَللّٰهُمَّ إِنِّي أَسۡأَلُكَ خَيۡرَ هٰذَا الۡيَوۡمِ فَتۡحَهُ وَنَصۡرَهُ وَنُوۡرَهُ وَبَرَكَتَهُ وَهُدَاهُ. وَأَعُوۡذُ بِكَ مِنۡ شَرِّ مَا فِيۡهِ وَشَرِّ مَا بَعۡدَهُ (رَوَاهُ اَبُوۡ دَاوُدَ)",
+        "terjemahan": "Kami dan kerajaan-Mu telah memasuki waktu subuh karena Allah Tuhan semesta alam. Ya Allah, aku memohon kepada-Mu kebaikan hari ini, kemenangannya, pertolongannya, cahayanya, barakahnya, dan hidayahnya, dan aku berlindung kepada-Mu dari keburukan hari ini dan keburukan apa-apa yang sesudah hari ini. (HR. Abu Dawud)"
+      },
+      {
+        "id": "1.20",
+        "arab": "رَبِّ أَسۡأَلُكَ خَيۡرَ هٰذَا الۡيَوۡمِ وَخَيۡرَ مَا بَعۡدَهُ وَأَعُوۡذُ بِكَ مِنۡ شَرِّهِ وَشَرِّ مَا بَعۡدَهُ. (اَلۡوِرۡدُ الۡمُصَفَّى الۡمُخۡتَارُ ص. ٢٥)",
+        "terjemahan": "Ya Allah, aku memohon kepada-Mu kebaikan hari ini dan kebaikan apa-apa yang sesudahnya, dan aku berlindung dari keburukan hari ini dan keburukan apa-apa yang sesudah hari ini. (Wirid Al Mushoffa Al Mukhtar hal. 25)"
+      },
+
+      {
+        "id": "1.21",
+        "arab": "اَللّٰهُمَّ إِنِّيۡ أَسۡأَلُكَ خَيۡرَ مَا اٰتِيۡ وَخَيۡرَ مَا أَفۡعَلُ وَخَيۡرَ مَا بَطَنَ وَخَيۡرَ مَا ظَهَرَ وَأَسۡأَلُكَ الدَّرَجَاتِ الۡعُلَى مِنَ الۡجَنَّةِ. (اَلۡوِرۡدُ الۡمُصَفَّى الۡمُخۡتَارُ ص. ٤٤) ",
+        "terjemahan": "Ya Allah, aku memohon kepada-Mu kebaikan apa-apa yang datang dan kebaikan apa-apa yang aku perbuat dan kebaikan apa-apa yang tersembunyi dan kebaikan apa-apa yang nampak, dan aku memohon kepada-Mu derajat yang tinggi di surga. (Wirid Al Mushoffa Al Mukhtar hal. 44)."
+      },
+      {
+        "id": "1.22",
+        "arab": "اَللّٰهُمَّ اجۡعَلۡ أَوَّلَ هٰذَا الۡيَوۡمِ صَلَاحًا وَأَوۡسَطَهُ فَلَاحًا وَاٰخِرَهُ نَجَاحًا وَأَسۡأَلُكَ خَيۡرَيِ الدُّنۡيَا وَالۡاٰخِرَةِ يَا أَرۡحَمَ الرَّاحِمِيۡنَ. (اَلۡوِرۡدُ الۡمُصَفَّى الۡمُخۡتَارُ ص. ٣٣)",
+        "terjemahan": "Ya Allah, jadikanlah awal hari ini adalah kemashlahatan dan pertengahannya adalah keberuntungan dan akhirnya adalah kesuksesan, aku memohon kepada-Mu kebaikan dunia dan akhirat, Wahai Dzat Yang paling Pengasih diantara yang Pengasih. (Wirid Al Mushoffa Al Mukhtar hal. 33"
+      },
+      {
+        "id": "1.23",
+        "arab": "اَللّٰهُمَّ ارۡزُقۡنِيۡ حُبَّكَ وَحُبَّ مَنۡ أَحَبَّكَ وَحُبَّ مَا يُقَرِّبُنِيۡ إِلَى حُبِّكَ وَاجۡعَلۡ حُبَّكَ أَحَبَّ إِلَيَّ مِنَ الۡمَآءِ وَالۡبَرَدِ (رَوَاهُ التِّرمِذِي)",
+        "terjemahan": "Ya Allah, rizkikanlah kepadaku cinta-Mu dan cinta orang-orang yang mencintai-Mu, dan kecintaan kepada apa-apa yang mendekatkanku kepada cinta-Mu dan jadikanlah cintaku kepada-Mu lebih aku sukai dari air dan embun. (HR. At Tirmidzi) "
+      }, {
+        "id": "1.24",
+        "arab": "إِنَّ اللّٰهَ وَمَلٰٓئِكَتَهُۥ يُصَلُّوۡنَ عَلَى النَّبِيِّ يٰٓاَيُّـهَا الَّذِيۡنَ ءَامَنُوۡا صَلُّوۡا عَلَيۡهِ وَسَلِّمُوۡا تَسۡلِيۡمًا (اَلۡاَحۡزَابُ:٥٦)",
+        "terjemahan": "Sesungguhnya Allah dan para malaikat-Nya bershalawat kepada nabi, wahai orang-orang yang beriman bershalawat-lah  pada nabi dan bersalamlah kepadanya dengan sebenar-benar salam. (QS. Al Ahzab 56)"
+      }, {
+        "id": "1.24",
+        "arab": "صَلَّى اللّٰهُ عَلَى النَّبِيِّ مُحَمَّدٍ (١١ ×)",
+        "terjemahan": "Allah bershalawat kepada Nabi Muhammad (11x)"
+      }, {
+        "id": "1.26",
+        "arab": "يَا فَتَّاحُ - يَارَزَّاقُ - يَاكَافِي - يَا مُغۡنِى (١١×)",
+        "terjemahan": "Wahai Dzat Yang membuka kemenangan, wahai Dzat Yang memberi rizki, wahai Dzat Yang serba mencukupi, wahai Dzat Yang memberi kekayaan. (11x)"
+      }, {
+        "id": "1.27",
+        "arab": "اَللّٰهُمَّ أَصۡلِحۡ لِيۡ دِيۡنِيۡ الَّذِيۡ هُوَ عِصۡمَةُ أَمۡرِيۡ وَأَصۡلِحۡ لِيۡ دُنۡيَايَ الَّتِيۡ فِيۡهَا مَعَاشِيۡ وَأَصۡلِحۡ لِيۡ اٰخِرَتِي الَّتِيۡ إِلَيۡهَا مَعَادِيۡ وَاجۡعَلِ الۡحَيٰوةَ زِيَادَةً فِيۡ كُلِّ خَيۡرٍ وَاجۡعَلِ الۡمَوۡتَ رَاحَةً مِنۡ كُلِّ شَرٍّ (رَوَاهُ مُسۡلِمٌ)",
+        "terjemahan": "Ya Allah, perbaikilah agamaku yang dia adalah inti dari urusanku, dan perbaikilah duniaku karena padanya kehidupanku, dan perbaikilah akhiratku karena ke sanalah aku akan kembali, dan jadikanlah hidup ini tambahan bagi tiap kebaikan, dan jadikanlah kematian sebagai pemberhentian dari setiap keburukan. (HR. Muslim)"
+      }, {
+        "id": "1.28",
+        "arab": "اَللّٰهُمَّ اجۡعَلۡ خَيۡرَ عُمُرِيۡ اٰخِرَهُ وَخَيۡرَ عَمَلِيۡ خَوَاتِمَهُ وَخَيۡرَ أَيَّامِيۡ يَوۡمَ أَلۡقَاكَ فِيۡهِ ",
+        "terjemahan": "Ya Allah, jadikanlah umurku yang terbaik diakhir hayatku, dan sebaik-baik amalku adalah di akhirnya, dan sebaik-baik hariku adalah hari  pertemuan dengan-Mu."
+      }, {
+        "id": "1.29",
+        "arab": "اَللّٰهُمَّ إِنِّيۡ أَسۡأَلُكَ عِيۡشَةً نَقِيَّةً وَمِيۡتَةً سَوِيَّةً وَمَرَدًّا غَيۡرَ مَخۡذُوۡلٍ فَاضِحٍ. (اَلۡوِرۡدُ الۡمُصَفَّى الۡمُخۡتَارُ ص. ٤٣)",
+        "terjemahan": "Ya Allah aku memohon kepada-Mu kehidupan yang bersih, dan Kematian yang landai, dan tempat kembali yang tidak tercela dan terhina. (Wirid Al Mushoffa Al Mukhtar hal. 43)"
+      }, {
+        "id": "1.30",
+        "arab": "اَللّٰهُمَّ إِنِّيۡ أَسۡأَلُكَ خَيۡرَ الۡمَسۡأَلَةِ وَخَيۡرَ الدُّعَآءِ وَخَيۡرَ النَّجَاحِ وَخَيۡرَ الۡعِلۡمِ وَخَيۡرَ الۡعَمَلِ وَخَيۡرَ الثَّوَابِ وَخَيۡرَ الۡحَيَاةِ وَخَيۡرَ الۡمَمَاتِ وَثَـبِّتۡنِيۡ وَثَقِّلۡ مَوَازِيۡنِيۡ وَحَقِّقۡ إِيۡمَانِيۡ وَارۡفَعۡ دَرَجَتِيۡ وَتَقَبَّلۡ صَلَاتِيۡ وَاغۡفِرۡ خَطِيۡـٓئَتِيۡ وَأَسۡأَلُكَ الدَّرَجَاتِ الۡعُلَا مِنَ الۡجَنَّةِ (رَوَاهُ الثَّلَاثَةُ وَمُسۡلِمٌ وَالتِّرۡمِذِي)",
+        "terjemahan": "Ya Allah, aku mohon kepada-Mu sebaik-baik permintaan, dan sebaik-baik do’a, dan sebaik-baik kesuksesan dan sebaik-baik ilmu,  dan sebaik-baik amal, dan sebaik-baik balasan, dan sebaik-baik kehidupan, dan sebaik-baik kematian dan teguhkanlah aku dan beratkanlah timbanganku dan perteguhlah imanku  dan angkatlah derajatku dan terimalah sholatku dan ampunilah kesalahan-kesalahanku dan aku memohon kepada-Mu derajat yang tinggi di surga.  (HR. Imam Yang Tiga, Muslim dan Tirmizi)"
+      }, {
+        "id": "1.31",
+        "arab": "وَهَبۡ لَنَا اللّٰهُمَّ مِنۡ رِّزۡقِكَ الۡحَلَالِ الطَّيِّبِ الۡوَاسِعِ الۡمُبَارَكِ مَا تَصُوۡنُ بِهِ وُجُوۡهَنَا عَنِ التَّعَرُّضِ إِلَى أَحَدٍ مِنۡ خَلۡقِكَ وَاجۡعَلِ اللّٰهُمَّ لَنَا إِلَيۡهِ طَرِيۡقًا سَهۡلًا مِنۡ غَيۡرِ فِتۡنَةٍ وَلَا مِحۡنَةٍ وَلَا تَعَبٍ وَلَا نَصَبٍ وَلَا مِنَّةٍ وَلَا تَبِعَةٍ لِّاَحَدٍ ",
+        "terjemahan": "Dan berikanlah kepada kami  Ya Allah dari rizki-Mu  yang halal dan baik, yang luas dan penuh barakah, yang dengan hal itu membuat wajah-wajah kami menjadi berpaling (tidak butuh) dari makhluk-Mu dan jadikanlah Ya Allah, bagi kami jalan yang mudah untuk mencapainya, tanpa fitnah, tanpa cobaan, tanpa kesusahan, tanpa penderitaan, tanpa pemberian, tanpa mengikut pada seseorang."
+      }, {
+        "id": "1.32",
+        "arab": "وَجَنِّبۡنَا اللّٰهُمَّ الۡحَرَامَ حَيۡثُ كَانَ وَأَيۡنَ كَانَ وَعِنۡدَ مَنۡ كَانَ وَحُلۡ بَيۡنَنَا وَبَيۡنَ أَهۡلِهِ وَاقۡبِضۡ عَنۡ اَيۡدِيَهُمۡ وَاصۡرِفۡ عَنَّا وُجُوۡهَهُمۡ وَقُلُوۡبَهُمۡ حَتَّى لَا نَتَقَلَّبُ اِلَّا فِيۡمَا يُرۡضِيۡكَ وَلَا نَسۡتَعِيۡنُ بِنِعۡمَتِكَ اِلَّا فِيۡمَا تُحِبُّهُ وَتَرۡضَاهُ بِرَحۡمَتِكَ يَا أَرۡحَمَ الرَّاحِمِيۡنَ",
+        "terjemahan": "Dan jauhkanlah kami dari keharaman dimanapun ia berada dan dari manapun ia datang, dan di sisi manapun ia ada, dan dindinglah antara kami dan pelakunya, dan tahanlah tangan-tangan kami dari mereka dan palingkanlah dari kami wajah-wajah mereka dan hati-hati mereka, sampai kami hanya berpaling kepada apa-apa yang Engkau ridhoi, dan kami tidak meminta pertolongan dengan nikmat-Mu kecuali terhadap apa-apa  yang  Engkau menyukainya dan Engkau meridhoinya, dengan rahmat-Mu wahai Dzat Yang paling Pengasih di antara  para pengasih."
+      }, {
+        "id": "1.33",
+        "arab": "رَبِّيۡ زِدۡنِيۡ عِلۡمًا وَوَسِّعۡ لِيۡ فِيۡ رِزۡقِيۡ وَبَارِكۡ لِيۡ فِيۡمَا رَزَقۡتَنِيۡ وَاجۡعَلۡنِيۡ مَحۡبُوۡبًا فِي قُلُوۡبِ عِبَادِكَ وعَزِيۡزًا فِي عُيُوۡنِهِمۡ وَاجۡعَلۡنِيۡ وَجِيۡهًا فِي الدُّنۡيَا وَالۡاٰخِرَةِ وَمِنَ الۡمُقَرَّبِيۡنَ يَا كَثِـيۡرَ النَّوَالِ يَا حَسَنَ الۡفِعَالِ يَا قَآئِمًا بِلَا زَوَالٍ وَيَا مُبۡدِأً بِلَا مِثَالٍ فَلَكَ الۡحَمۡدُ وَلَكَ المِنَّةُ وَلَكَ الشَّرَفُ عَلَى كُلِّ حَالٍ",
+        "terjemahan": "Ya Tuhanku, tambahkanlah ilmu kepadaku dan luaskanlah rizkiku, dan berkahilah apa-apa yang telah Engkau berikan kepadaku, dan jadikanlah aku dicintai oleh hati hamba-hamba-Mu, dan aku mulia dalam pandangan mereka, dan jadikanlah aku sukses didunia maupun di akhirat serta termasuk orang-orang yang dekat kepada-Mu, wahai Dzat yang banyak pemberian-Nya, wahai Dzat yang baik perbuatan-Nya, wahai Dzat yang selalu berdiri (ada) tak  pernah sirna, wahai  Dzat yang memulai penciptaan tanpa contoh, maka  bagi-Mu pujian, dan bagi-Mu pemberian dan bagi-Mu  kemuliaan pada setiap keadaan."
+      }, {
+        "id": "1.34",
+        "arab": "اَللّٰهُمَّ اجۡعَلۡنَا مِنَ الصَّالِحِيۡنَ وَالۡعَارِفِيۡنَ وَالصَّابِرِيۡنَ وَالۡمُجَاهِدِيۡنَ وَالۡقَانِتِيۡنَ وَالۡمُقَرَّبِيۡنَ",
+        "terjemahan": "Ya Allah, jadikanlah aku termasuk orang-orang yang sholeh, orang-orang yang makrifat, orang-orang yang sabar, orang-orang yang berjihad, orang-orang yang taat, dan  orang-orang yang dekat kepada-Mu."
+      }, {
+        "id": "1.35",
+        "arab": "رَبِّ اجۡعَلۡ هٰذَا بَلَدًا اٰمِنًا وَّارۡزُقۡ اَهۡلَهُۥ مِنَ الثَّمَرٰتِ مَنۡ ءَامَنَ مِنۡهُمۡ بِاللّٰهِ وَالۡيَوۡمِ الۡاٰخِرِ. رَبَّنَا تَقَبَّلۡ مِنَّا إِنَّكَ اَنۡتَ السَّمِيۡعُ الۡعَلِيۡمُ (البقرة:١٢٦-١٢٧)",
+        "terjemahan": "Ya Tuhanku, jadikanlah negeri ini, negeri yang aman sentosa dan berikanlah rizki dari buah-buahan kepada penduduknya yang beriman diantara mereka kepada Allah dan hari kiamat. Ya Tuhan kami, terimalah do'a-do'a kami, sesungguhnya Engkau Maha Mendengar  dan Maha Mengetahui. (QS. Al-Baqarah 126-127)"
+      }, {
+        "id": "1.36",
+        "arab": "سُبۡحٰنَ رَبِّكَ رَبِّ الۡعِزَّةِ عَمَّا يَصِفُوۡنَ. وَسَلَامٌ عَلَى الۡمُرۡسَلِيۡنَ. وَالۡحَمۡدُ لِلّٰهِ رَبِّ الۡعٰلَمِيۡنَ (الصَّآفَّات:١٨٠¬-١٨٢)",
+        "terjemahan": "Maha Suci Tuhanmu yang Maha Tinggi, dari apa-apa yang mereka sifatkan dan keselamatan atas para Rasul, dan segala puji bagi Allah, Tuhan semesta alam. (QS. Ash-Shaffat: 180) "
+      }
+    ],
+  "wiridDzuhur" : [
+       {
+        "id": "1.1",
+          "arab" : "(x٣) أَسۡتَغۡفِرُ اللّٰهَ ",
+        "terjemahan": "Aku mohon ampun kepada  Allah.” (3x) (HR. Muslim)"
+    },
+    {
+        "id": "1.2",
+        "arab": "اَللّٰهُمَّ اَنۡتَ السَّلَامُ وَمِنۡكَ السَّلَامُ تَبَارَكۡتَ يَاذَا الۡجَلَالِ وَاۡلإِكۡرَامِ (رَوَاهُ مُسۡلِمٌ)",
+        "terjemahan": "Wahai Allah, Engkau adalah keselamatan dan dari-Mu keselamatan, Maha Suci Engkau, wahai Dzat yang Memiliki keagungan dan kemuliaan. (HR. Muslim)"
+    }, {
+        "id": "1.3",
+        "arab": "حَسۡبِيَ اللّٰهُ لَآ إِلٰهَ اِلَّا هُوَ عَلَيۡهِ تَوَكَّلۡتُ وَهُوَ رَبُّ الۡعَرۡشِ الۡعَظِيۡم (×٧)  (اَلتَّوۡبَةُ 129) ",
+        "terjemahan": "Cukuplah bagiku Allah, tiada ilah kecuali Dia, kepada-Nya aku berserah diri dan Dia adalah penguasa Arsy yang Agung. (7x) (QS. At-Taubah 129)"
+    }, {
+        "id": "1.4",
+        "arab": "اَللّٰهُمَّ أَعِنِّيۡ عَلَى ذِكۡرِكَ وَشُكۡرِكَ وَحُسۡنِ عِبَادَتِكَ (رَوَاهُ أَبُوۡ دَاوُدَ)",
+        "terjemahan": "Ya Allah, tolonglah aku untuk mengingat-Mu, bersyukur kepada-Mu dan memperbaiki ibadah kepada-Mu. (HR. Abu Dawud)"
+    }, {
+        "id": "1.5",
+        "arab": "سُبۡحَانَ اللّٰهِ (١١×) اَلۡحَمۡدُ لِلّٰهِ (١١×) اَللّٰهُ اَكۡبَرُ (١١ ×) لَا إِلٰهَ اِلَّا اللّٰهُ (١١×) (رَوَاهُ مُسۡلِمٌ) اَلۡحَمۡدُ لِلّٰهِ رَبِّ الۡعَالَمِيۡنَ حَمۡدًا يُوَافِيۡ نِعَمَهُ وَيُكَافِيۡ مَزِيۡدَهُ. يَا رَبَّنَا لَكَ الۡحَمۡدُ كَمَا يَنۡبَغِيۡ لِجَلَالِ وَجۡهِكَ وَعَظِيۡمِ سُلۡطَانِكَ (رَوَاهُ ابن مَاجَه)",
+        "terjemahan": "Segala puji bagi Allah yang telah menyempurnakan nikmat dan karunia-Nya. Wahai Tuhan kami, bagi-Mu segala puji sesuai keagungan wajah-Mu dan kemegahan kerajaan-Mu. (HR. Ibnu Majah) "
+    }, {
+        "id": "1.6",
+        "arab": "اَللّٰهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى اٰلِ مُحَمَّـدٍ (رَوَاهُ أَصۡحَابُ السُّنَنِ)",
+        "terjemahan": "Ya Allah bersholawatlah atas nabi Muhammad dan atas keluarga Muhammad. (HR. Ashabussunan)"
+    }, {
+        "id": "1.7",
+        "arab": "رَبِّ اغۡفِرۡ لِيۡ وَلِوَالِدَيَّ وَارۡحَمۡهُمَا كَمَا رَبَّيَانِيۡ صَغِيۡرًا. رَبِّ اجۡعَلۡنِيۡ مُقِيۡمَ الصَّلَاةِ وَمِنۡ ذُرِّيَّتِيۡ. رَبَّنَا وَتَقَبَّلۡ دُعَآءِ. رَبَّنَا اغۡفِرۡ لِيۡ وَلِوَالِدَيَّ وَلِلۡمُؤۡمِنِيۡنَ يَوۡمَ يَقُوۡمُ الۡحِسَابِ (اِبۡرَاهِيۡمُ ٤٠-٤١)",
+        "terjemahan": "Wahai Tuhanku, Ampunilah aku dan kedua orang tuaku dan kasihilah mereka sebagaimana mereka mengasihiku di waktu kecil.  Ya Rabb, jadikanlah aku orang yang me-negakkan sholat dan dari keturunanku juga, Ya Tuhan kami, terimalah do'a-do'a kami. Wahai Tuhan kami,  ampunilah aku dan kedua orang tuaku dan orang-orang mukmin pada hari perhitungan ditegakkan. (QS. Ibrahim: 40-41)"
+    }, {
+        "id": "1.8",
+        "arab": "رَبَّنَا هَبۡ لَنَا مِنۡ أَزۡوَاجِنَا وَذُرِّيَّاتِنَا قُرَّةَ أَعۡيُنٍ وَّاجۡعَلۡنَا لِلۡمُتَّقِيۡنَ إِمَامًا ( الفُرۡقَانُ: ٧٤)",
+        "terjemahan": "Wahai Tuhan kami, jadikanlah pasangan-pasangan kami dan anak keturunan kami sebagai penyenang hati dan jadikanlah kami imam bagi orang-orang yang bertaqwa. (QS. Al Furqan 74)"
+    }, {
+        "id": "1.9",
+        "arab": "رَبِّ هَبۡ لِيۡ مِنۡ لَدُنۡكَ ذُرِّيَةً طَيِّبَةً إِنَّكَ سَمِيۡعُ الدُّعَآءِ (اٰلِ عِمۡرَانَ: ٣٨)",
+        "terjemahan": "Ya Allah, berikanlah kami dari sisi-Mu keturunan yang baik, sesungguhnya Engkau Maha Mendengar do'a. (QS. Ali Imran: 38) "
+    }, 
+    
+    
+    
+    {
+        "id": "1.10",
+        "arab": "Wirid Al Qur'an surat Al Mukminun ayat 115-118: \n\nأَعُوۡذُ بِاللّٰهِ مِنَ الشَّيۡطٰنِ الرَّجِيۡمِ  أَفَحَسِبۡتُمۡ أَنَّمَا خَلَقۡنَاكُمۡ عَبَثًا وَأَنَّكُمۡ إِلَيۡنَا لَا تُرۡجَعُوۡنَ. فَتَعَالَى اللّٰهُ الۡمَلِكُ الۡحَقُّ لَآ إِلٰهَ اِلَّا هُوَ رَبُّ الۡعَرۡشِ الۡكَرِيۡمِ. وَمَنۡ يَّدۡعُ مَعَ اللّٰهِ إِلٰهًا اٰخَرَ لَا بُرۡهَانَ لَهُۥ بِهِۦ فَإِنَّمَا حِسَابُهُۥ عِنۡدَ رَبِّهِۦ إِنَّهُۥ لَا يُفۡلِحُ الۡكَافِرُوۡنَ. وَقُلۡ رَّبِّ اغۡفِرۡ وَارۡحَمۡ وَأَنۡتَ خَيۡرُ الرَّاحِمِيۡنَ (اَلۡمُؤۡمِنُوۡنَ ١١٥-١١٨)   ",
+        "terjemahan": "Apakah kalian mengira, bahwa sesungguhnya Kami telah menciptakan kalian secara main-main (saja), dan bahwa kalian tidak akan dikembalikan kepada Kami? (115) Maka Maha Tinggi Allah, Raja Yang Sebenarnya; tidak ada Tuhan selain Dia, Tuhan (Yang memiliki) Arasy yang mulia. (116) Dan barang siapa menyeru bersama Allah tuhan yang lain, yang  tidak ada suatu petunjukpun  baginya tentang itu, maka sesungguhnya perhitungannya di sisi Tuhannya. Sesungguhnya tidak beruntunglah orang-orang yang kafir itu. (117) Dan katakanlah: 'Wahai Tuhanku ampunilah  dan rahmatilah, dan Engkau adalah  sebaik –baik pemberi Rahmat. (118)'"
+    }, {
+        "id": "1.11",
+        "arab": "أَعُوۡذُ بِكَلِمَاتِ اللّٰهِ التَّآمَّاتِ مِنۡ شَرِّ مَا خَلَقَ (رَوَاهُ مُسۡلِمٌ) ",
+        "terjemahan": "Aku berlindung dengan kalimat Allah yang sempurna dari keburukan apa-apa yang telah Ia  ciptakan. (3 X) (HR. Muslim)"
+    }, {
+        "id": "1.12",
+        "arab": "رَبِّ أَعُوۡذُ بِكَ مِنۡ هَمَزَاتِ الشَّيَاطِيۡنِ. وَأَعُوۡذُ بِكَ رَبِّ أَنۡ  يَحۡضُرُوۡنِ (اَلۡمُؤۡمِنُوۡنَ ٩٧-٩٨)",
+        "terjemahan": "Ya Tuhanku, aku berlindung kepada-Mu dari hembusan-hembusan syaithan dan aku berlindung kepada-Mu wahai Tuhanku dari kehadiran mereka. (QS Al Mukminun 97-98)"
+    }, {
+        "id": "1.13",
+        "arab": "رَبِّ أَوۡزِعۡنِيۡ أَنۡ أَشۡكُرَ نِعۡمَتَكَ الَّتِيۡ أَنۡعَمۡتَ عَلَيَّ وَعَلَى وَالِدَيَّ وَأَنۡ أَعۡمَلَ صَالِحًا تَرۡضَاهُ وَأَدۡخِلۡنِيۡ بِرَحۡمَتِكَ فِيۡ عِبَادِكَ الصّٰلِحِيۡنَ (اَلنَّمۡلُ:١٩)",
+        "terjemahan": "Ya Tuhanku, tolonglah aku untuk mensyukuri nikmat-Mu yang telah Engkau berikan kepadaku dan kepada kedua orang tuaku dan tolonglah aku untuk beramal sholeh yang Engkau ridhoi dan masukkanlah aku dengan rahmat-Mu ke dalam hamba-hamba-Mu yang sholeh. (QS. An Naml: 19)"
+    }, {
+        "id": "1.14",
+        "arab": "رَبِّ هَبۡ لِيۡ حُكۡمًا وَأَلۡحِقۡنِيۡ بِالصَّالِحِيۡنَ. وَاجۡعَلۡ لِيۡ لِسَانَ صِدۡقٍ فِي الۡاٰخِرِيۡنَ. وَاجۡعَلۡنِيۡ مِنۡ وَرَثَةِ جَنَّةِ النَّعِيۡمِ (اَلشُّعَرَاءُ: ٨٣-٨٥)",
+        "terjemahan": "Ya Tuhanku, berikanlah kepadaku hikmah dan masukkanlah aku ke dalam  orang-orang shaleh, Dan jadikanlah aku buah tutur yang baik bagi orang-orang yang datang kemudian. Dan jadikanlah aku termasuk orang-orang yang mewarisi surga yang penuh kenikmatan. (QS. Asy- Syu’ara : 83-85)"
+    }, {
+        "id": "1.15",
+        "arab": "اَللّٰهُمَّ إِنَّا نَسۡأَلُكَ مِنۡ خَيۡرِ مَا سَأَلَكَ مِنۡهُ نَبِيُّكَ مُحَمَّدٌ وَنَعُوۡذُ بِكَ مِنۡ شَرِّ مَااسۡتَعَاذَ مِنۡهُ نَبِيُّكَ مُحَمَّدٌ وَاَنۡتَ الۡمُسۡتَعَانُ وَعَلَيۡكَ  الۡبَلَاغُ وَلَاحَوۡلَ وَلَا قُوَّةَ اِلَّا بِاللّٰهِ (رَوَاهُ التِّرۡمِذِي)",
+        "terjemahan": "Ya Allah, aku mohon kepada-Mu kebaikan apa-apa yang telah diminta Nabi-Mu Muhammad dan aku berlindung dari keburukan apa-apa yang berlindung dari-Nya Nabi-Mu Muhammad dan Engkau adalah Penolong dan kepada-Mulah sampainya (do’a) dan tiada daya dan tiada kekuatan kecuali beserta Allah. (HR. Tirmidzi)"
+    }, {
+        "id": "1.16",
+        "arab": "اَللّٰهُمَّ إِنِّيۡ أَعُوۡذُ بِكَ مِنَ الۡعَجۡزِ وَالۡكَسَلِ وَالۡهَرَمِ وَالۡجُبۡنِ وَالۡبُخۡلِ وَعَذَابِ الۡقَبۡرِ. اَللّٰهُمَّ اٰتِ نَفۡسِيۡ تَقۡوَاهَا وَزَكِّهَا اَنۡتَ خَيۡرُ مَنۡ زَكَّاهَا اَنۡتَ وَلِيُّهَا وَمَوۡلَاهَا. اَللّٰهُمَّ إِنِّيۡ أَعُوۡذُ بِكَ مِنۡ قَلۡبٍ لَايَخۡشَعُ وَنَفۡسٍ لَا تَشۡبَعُ وَعِلۡمٍ لَا يَنۡفَعُ وَدَعۡوَةٍ لَا يُسۡتَجَابُ لَهَا (رَوَاهُ اَحۡمَدُ وَمُسۡلِمٌ)",
+        "terjemahan": "Ya Allah, aku berlindung kepada-Mu Dari kelemahan dan kemalasan, kepayahan, kepengecutan, kebakhilan, dan dari siksa neraka. Ya Allah, berikanlah pada jiwaku ketak-waannya dan sucikanlah ia,  Engkau adalah sebaik-baik  Dzat yang mensucikannya, karena Engkau adalah Pelindungnya dan Pemiliknya. Ya Allah, aku berlindung kepada-Mu dari hati yang tidak khusyuk, dari nafsu yang tidak puas, dari ilmu yang tidak  bermanfaat, dari do'a yang   tidak terkabulkan. (HR. Ahmad dan Muslim)"
+    }, {
+        "id": "1.17",
+        "arab": "إِنَّ اللّٰهَ وَمَلٰٓئِكَتَهُۥ يُصَلُّوۡنَ عَلَى النَّبِيِّ يٰٓأَيُّهَا الَّذِيۡنَ ءَامَنُوۡا صَلُّوۡا عَلَيۡهِ وَسَلِّمُوۡا تَسۡلِيۡمًا. (اَلۡاَحۡزَابُ: ٥٦)",
+        "terjemahan": "Sesungguhnya Allah dan para malaikat-Nya bershalawat kepada nabi, wahai orang-orang yang beriman bershalawat-lah  pada nabi dan bersalamlah kepadanya dengan sebenar-benar salam. (QS. Al Ahzab 56)"
+    }, {
+        "id": "1.18",
+        "arab": "صَلَّى اللّٰهُ عَلَى النَّبِيِّ مُحَمَّدٍ (× ١١)",
+        "terjemahan": "Allah bershalawat kepada Nabi Muhammad. (11x)"
+    }, {
+        "id": "1.19",
+        "arab": "يَارَحۡمٰنُ - يَارَحِيۡمُ – يَامٰلِكُ – يَا قُدُّوۡسُ (× ١١)",
+        "terjemahan": "Wahai Dzat Yang Maha Pengasih, Wahai Dzat Yang Maha Penyayang, Wahai Dzat Yang Maha Memiliki, Wahai Dzat Yang Maha Suci. (11x)"
+    }, {
+        "id": "1.20",
+        "arab": "اَللّٰهُمَّ إِنِّيۡ  أَسۡأَلُكَ رَحۡمَةً مِنۡ عِنۡدِكَ  تَهۡدِيۡ بِهَا قَلۡبِيۡ وَتَجۡمَعُ بِهَا شَمۡلِيۡ وَتَلُمُّ بِهَا شَعۡثِيۡ وَتَرُدُّبِهَا الۡفِتَنَ عَنِّيۡ وَتَصۡلُحُ بِهَا دِيۡنِيۡ وَتَحۡفَظُ بِهَا غَائِبِيۡ وَتَرۡفَعُ بِهَا شَاهِدِيۡ وَتُبَيِّضُ بِهَا وَجۡهِيۡ وَتُلۡقِنِيۡ بِهَارُشۡدِيۡ وَتَعۡصِمُنِيۡ بِهَا مِنۡ كُلِّ سُوۡءٍ",
+        "terjemahan": "Ya Allah, aku mohon pada-Mu Rahmat dari sisi-Mu yang dapat memberi hidayah  hatiku dan dengannya mengum-pulkan urusanku dan bersatu dengannya yang tercerai berai dariku, dan menolak dengannya  fitnah dariku dan membaik dengannya agamaku dan menjagaku di waktu ghaib dan mengangkat dengannya kesaksianku, dan menyinari wajahku dan menyampaikan dengannya petunjukku, dan menjagaku dari setiap keburukan."
+    },{
+        "id": "1.21",
+        "arab": "اَللّٰهُمَّ أَعۡطِنِيۡ إِيۡمَانًا صَادِقًا وَيَقِيۡنًا لَيۡسَ بَعۡدَهُ كُفۡرٌ وَرَحۡمَةً أَنَالُ بِهَا شَرَفَ كَرَامَتِكَ فيِ الدُّنۡيَا وَالۡاٰخِرَةِ, اَللّٰهُمَّ إِنِّيۡ  أَسۡأَلُكَ الۡفَوۡزَ  يَوۡمَ الۡقَضَآءِ وَعَيۡشَ السُّعَدَآءِ وَمَنۡزِلَ الشُّهَدَآءِ وَمُرَافَقَةَ الۡاَنۡبِيَآءِ وَالنَّصۡرَ عَلَى الۡاَعۡدَآءِ. (اَلۡوِرۡدُ الۡمُصَفَّى الۡمُخۡتَارُ ص. ٤٩)",
+        "terjemahan": "Ya Allah berilah aku iman  yang benar dan keyakinan yang tidak  ada kekufuran sesudahnya dan rahmat yang dengannya aku mendapatkan kemuliaan karomah-Mu di dunia dan akhirat, Ya Allah, aku meminta kepada-Mu kemenangan pada hari penentuan dan kehidupan yang bahagia dan maqam para syuhada’ dan berteman dengan para nabi dan pertolongan atas musuh-musuh. (Wirid Al Mushoffa Al Mukhtar hal. 49)"
+    } ,  {
+        "id": "1.22",
+        "arab": "اَللّٰهُمَّ هٰذَا الدُّعَآءُ وَعَلَيۡكَ الۡإِجَابَةُ وَهٰذَا الۡجُهۡدُ وَعَلَيۡكَ التُّكۡلَانُ وَلَاحَوۡلَ وَلَا قُوَّةَ اِلَّا بِكَ (اَلۡوِرۡدُ الۡمُصَفَّى الۡمُخۡتَارُ ص.٥٢ )",
+        "terjemahan": "Ya Allah, ini adalah sebuah permohonan dan atas-Mu pengabulannya dan ini adalah kesungguhan, atas-Mu perlindungan, tiada daya dan kekuatan kecuali bersama-Mu. (Wirid Al Mushoffa Al Mukhtar hal 52)"
+    } ,  
+    {
+        "id": "1.23",
+        "arab": "سُبۡحٰنَ رَبِّكَ رَبِّ الۡعِزَّةِ عَمَّا يَصِفُوۡنَ. وَسَلَامٌ عَلَى الۡمُرۡسَلِيۡنَ. وَالۡحَمۡدُ لِلّٰهِ رَبِّ الۡعٰلَمِينَ (الصَّآفَّات:١٨٠-١٨٢)",
+        "terjemahan": "Maha Suci Tuhanmu yang Maha Tinggi, dari apa-apa yang mereka sifatkan dan keselamatan atas para Rasul, dan segala puji bagi Allah, Tuhan semesta alam. (QS. Ash-Shaffat: 180-182)"
+    }
+   
+        ],
+        "wiridAshar": [
+            {
+                "id": "1.1",
+                "arab": " (رَوَاهُ مُسۡلِمٌ) (x٣) أَسۡتَغۡفِرُ اللّٰهَ ",
+                "terjemahan": "Aku mohon ampun kepada  Allah. (3x) (HR. Muslim)"
+            } , {
+                "id": "1.2",
+                "arab": "اَللّٰهُمَّ اَنۡتَ السَّلَامُ وَمِنۡكَ السَّلَامُ تَبَارَكۡتَ يَاذَا الۡجَلَالِ وَاۡلإِكۡرَامِ (رَوَاهُ مُسۡلِمٌ)",
+                "terjemahan": "Wahai Allah, Engkau adalah keselamatan dan dari-Mu keselamatan, Maha Suci Engkau, wahai Dzat yang Memiliki keagungan dan kemuliaan. (HR. Muslim)"
+            } , {
+                "id": "1.3",
+                "arab": "حَسۡبِيَ اللّٰهُ لَآ إِلٰهَ اِلَّا هُوَ عَلَيۡهِ تَوَكَّلۡتُ وَهُوَ رَبُّ الۡعَرۡشِ الۡعَظِيۡم (×٧)  (اَلتَّوۡبَةُ 129) ",
+                "terjemahan": "Cukuplah bagiku Allah, tiada ilah kecuali Dia, kepada-Nya aku berserah diri dan Dia adalah penguasa Arsy yang mulia. (7x) (QS. At-Taubah 129)"
+            } , {
+                "id": "1.4",
+                "arab": "اَللّٰهُمَّ أَعِنِّيۡ عَلَى ذِكۡرِكَ وَشُكۡرِكَ وَحُسۡنِ عِبَادَتِكَ (رَوَاهُ أَبُوۡ دَاوُدَ)",
+                "terjemahan": "Ya Allah, tolonglah aku untuk mengingat-Mu, bersyukur kepada-Mu dan memperbaiki ibadah kepada-Mu. (HR. Abu Dawud)"
+            } , {
+                "id": "1.5",
+                "arab": "سُبۡحَانَ اللّٰهِ (١١×) اَلۡحَمۡدُ لِلّٰهِ (١١×) اَللّٰهُ اَكۡبَرُ (١١ ×) لَا إِلٰهَ اِلَّا اللّٰهُ (١١×) (رَوَاهُ مُسۡلِمٌ)  اَلۡحَمۡدُ لِلّٰهِ رَبِّ الۡعَالَمِيۡنَ حَمۡدًا يُوَافِيۡ نِعَمَهُ وَيُكَافِيۡ مَزِيۡدَهُ. يَا رَبَّنَا لَكَ الۡحَمۡدُ كَمَا يَنۡبَغِيۡ لِجَلَالِ وَجۡهِكَ وَعَظِيۡمِ سُلۡطَانِكَ (رَوَاهُ ابن مَاجَه) ",
+                "terjemahan": "Segala puji bagi Allah yang telah menyempurnakan nikmat dan karunia-Nya. Wahai Tuhan kami, bagi-Mu segala puji sesuai keagungan wajah-Mu dan kemegahan kerajaan-Mu. (HR. Ibnu Majah) "
+            } , {
+                "id": "1.6",
+                "arab": "اَللّٰهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى اٰلِ مُحَمَّـدٍ (رَوَاهُ أَصۡحَابُ السُّنَنِ)",
+                "terjemahan": "Ya Allah bersholawatlah atas Nabi Muhammad dan atas keluarga Nabi Muhammad. (HR. Ashabussunan)"
+            } , {
+                "id": "1.7",
+                "arab": "رَبِّ اغۡفِرۡ لِيۡ وَلِوَالِدَيَّ وَارۡحَمۡهُمَا كَمَا رَبَّيَانِيۡ صَغِيۡرًا. رَبِّ اجۡعَلۡنِيۡ مُقِيۡمَ الصَّلَاةِ وَمِنۡ ذُرِّيَّتِيۡ. رَبَّنَا وَتَقَبَّلۡ دُعَآءِ. رَبَّنَا اغۡفِرۡ لِيۡ وَلِوَالِدَيَّ وَلِلۡمُؤۡمِنِيۡنَ يَوۡمَ يَقُوۡمُ الۡحِسَابِ (اِبۡرَاهِيۡمُ ٤٠-٤١)",
+                "terjemahan": "Wahai Tuhanku, Ampunilah aku dan kedua orang tuaku dan kasihilah mereka sebagaimana mereka mengasihiku di waktu kecil.  Ya Rabb, jadikanlah aku orang yang me-negakkan sholat dan dari keturunanku juga, Ya Tuhan kami, terimalah do'a-do'a kami. Ya Tuhan kami,  ampunilah aku dan kedua orang tuaku dan orang-orang mukmin pada hari perhitungan ditegakkan. (QS. Ibrahim: 40-41)"
+            } ,
+            
+            
+            
+            
+            {
+                "id": "1.8",
+                "arab": "Wirid Al Qur'an surat Ali Imran ayat 26-28: \n\nأَعُوۡذُ بِاللّٰهِ مِنَ الشَّيۡطٰنِ الرَّجِيۡمِ   قُلِ اللّٰهُمَّ مَالِكَ الۡمُلۡكِ تُؤۡتِيۡ الۡمُلۡكَ مَنۡ تَشَآءُ وَتَنۡزِعُ الۡمُلۡكَ مِمَّنۡ تَشَآءُ وَتُعِزُّ مَنۡ تَشَآءُ وَتُذِلُّ مَنۡ تَشَآءُ بِيَدِكَ الۡخَيۡرُ إِنَّكَ عَلَى كُلِّ شَيۡءٍ قَدِيۡرٌ ٢٦ تُوۡلِجُ اللَّيۡلَ فِيۡ النَّهَارِ وَتُوۡلِجُ النَّهَارَ فِيۡ اللَّيۡلِ وَتُخۡرِجُ  الۡحَيَّ مِنَ الۡمَيِّتِ وَتُخۡرِجُ الۡمَيِّتَ مِنَ الۡحَيِّ وَتَرۡزُقُ مَنۡ تَشَآءُ بِغَيۡرِ حِسَابٍ٢٧ لَايَتَّخِذِ الۡمُؤۡمِنُوۡنَ الۡكٰفِرِيۡنَ أَوۡلِيَآءَ مِنۡ دُوۡنِ الۡمُؤۡمِنِيۡنَ وَمَنۡ يَّفۡعَلۡ ذٰلِكَ فَلَيۡسَ مِنَ اللّٰهِ فِيۡ شَيۡءٍ اِلَّا أَنۡ تَتَّقُوۡا مِنۡهُمۡ تُقَاةً وَيُحَذِّرُكُمُ اللّٰهُ نَفۡسَهُ وَإِلَى اللّٰهِ الۡمَصِيۡرُ٢٨ (اٰلِ عِمۡرَانَ: ٢٦-٢٨)",
+                "terjemahan": "Katakanlah: 'Wahai Tuhan Yang mempunyai kerajaan, Engkau berikan kerajaan kepada orang yang Engkau kehendaki dan Engkau cabut kerajaan dari orang yang Engkau kehendaki. Engkau muliakan orang yang Engkau kehendaki dan Engkau hinakan orang yang Engkau kehendaki. Di tangan Engkaulah segala kebajikan. Sesungguhnya Engkau Maha Berkuasa atas segala sesuatu. (26) Engkau memasukkan malam ke dalam siang dan Engkau memasukkan siang ke dalam malam. Engkau mengeluarkan yang hidup dari yang mati, dan Engkau mengeluarkan yang mati dari yang hidup. Dan Engkau memberi rezeki siapa yang Engkau kehendaki tanpa hisab (batas).' (27) Janganlah orang-orang mukmin mengambil orang-orang kafir menjadi wali dengan meninggalkan orang-orang mukmin. Barang siapa berbuat demikian, niscaya lepaslah ia dari pertolongan Allah kecuali karena (siasat) memelihara diri dari sesuatu yang ditakuti dari mereka. Dan Allah memperingatkan kamu terhadap diri (siksa) Nya. Dan hanya kepada Allah kembali (mu). (QS. Ali Imran: 26-28)"
+            } , {
+                "id": "1.9",
+                "arab": "اَللّٰهُمَّ بِكَ أَمۡسَيۡنَا وَبِكَ نَحۡيَ وَبِكَ نَمُوۡتُ وَإِلَيۡكَ الۡمَصِيۡرُ (رَوَاهُ التِّرمِذِي)",
+                "terjemahan": "Ya Allah, karena-Mu kami memasuki sore hari, karena-Mu kami hidup, karena-Mu kami mati dan kepada-Mu jualah kami akan kembali.  (HR. At Tirmidzi)"
+            } , {
+                "id": "1.10",
+                "arab": "اَللّٰهُمَّ إِنِّي أَمۡسَيۡتُ اُشۡهِدُكَ وَاُشۡهِدُ حَمَلَةَ عَرۡشِكَ وَمَلٰٓئِكَتَكَ وَجَمِيۡعَ خَلۡقِكَ إِنَّكَ أَنۡتَ اللّٰهُ لَآ إِلٰهَ إِلَّا اَنۡتَ وَحۡدَكَ لَاشَرِيۡكَ لَكَ وَاَنَّ مُحَمَّدًا عَبۡدُكَ وَرَسُوۡلُكَ (رَوَاهُ النَّسَائي)",
+                "terjemahan": "Ya Allah, pada sore hari ini aku mempersaksikan kepada-Mu, kepada pembawa 'Arsy-Mu, kepada malaikat- malaikat-Mu, dan kepada semua makhluk-Mu, sesungguhnya Engkaulah Tuhan yang tiada Tuhan selain Engkau, Maha Tunggal, tiada sekutu bagi-Mu dan bahwasanya Muhammad adalah hamba-Mu dan rasul-Mu. (HR. An Nasa’i)"
+            } , {
+                "id": "1.11",
+                "arab": "اَللّٰهُمَّ اَنۡتَ رَبِّيۡ لَآ إِلٰهَ اِلَّا اَنۡتَ خَلَقۡتَنِيۡ وَاَنَا عَبۡدُكَ وَاَنَا عَلَى عَهۡدِكَ وَوَعۡدِكَ مَااسۡتَطَعۡتُ أَعُوۡذُ بِكَ مِنۡ شَرِّ مَاصَنَعۡتُ اَبُوۡءُ لَكَ بِنِعۡمَتِكَ عَلَيَّ وَاَبُوۡءُ بِذَنۡبِيۡ فَاغۡفِرۡلِيۡ اِنَّهُ لَايَغۡفِرُ الذُّنُوۡبَ اِلَّا اَنۡتَ (رَوَاهُ الۡبُخَارِي) ",
+                "terjemahan": "Ya Allah, Engkaulah Rabbku, tiada Tuhan kecuali Engkau, Engkaulah yang menciptakan aku, aku adalah hamba-Mu akan tetap pada janji dan perjanjian-Mu semampuku, aku berlindung kepada-Mu dari keburukan yang aku buat, aku akui atas segala nikmat yang Engkau berikan padaku dan aku mengakui atas segala dosa-dosaku maka ampunilah aku ya Allah, sesungguhnya tiada yang bisa mengampuni dosa selain Engkau. (HR. Bukhari)"
+            } , {
+                "id": "1.12",
+                "arab": " اَللّٰهُمَّ عَافِنِيۡ فيِ بَدَنِيۡ اَللّٰهُمَّ عَافِنِيۡ فيِ سَمۡعِيۡ اَللّٰهُمَّ عَافِنِيۡ فِيۡ بَصَرِيۡ لَآ إِلٰهَ اِلَّا اَنۡتَ ( رَوَاهُ الۡبُخَارِي)",
+                "terjemahan": "Ya Allah berikanlah kesehatan pada tubuhku,  Ya Allah berikanlah kesehatan pada pendengaranku, Ya Allah berikanlah kesehatan pada penglihatanku, Tiada Tuhan selain Engkau. (HR. Bukhari)"
+            } , {
+                "id": "1.13",
+                "arab": "رَبَّنَا اٰتِنَا مِنۡ لَدُنۡكَ رَحۡمَةً وَهَيِّءۡ لَنَا مِنۡ أَمۡرِنَا رَشَدًا (اَلۡكَهۡفِ:١٠)",
+                "terjemahan": "Wahai Tuhan kami, berikanlah rahmat kepada kami dari sisi-Mu dan sempurnakanlah bagi kami petunjuk yang lurus dalam urusan kami. (QS. Al KahfI: 10)"
+            } , {
+                "id": "1.14",
+                "arab": "رَبِّ إِنِّي أَعُوۡذُ بِكَ أَنۡ أَسۡأَلَكَ مَالَيۡسَ لِيۡ بِهِۦ عِلۡمٌ وَاِلَّا تَغۡفِرۡ لِيۡ وَتَرۡحَمۡنِيۡ أَكُنۡ مِنَ الۡخٰسِرِيۡنَ (هُوۡدٌ :٤٧)",
+                "terjemahan": "Wahai Rabbku, aku berlindung kepada-Mu dari memohon kepada-Mu sesuatu yang aku tidak mengetahuinya. Dan sekiranya  Engkau tidak memberi ampunan kepadaku dan tidak menaruh belas kasihan kepadaku, niscaya aku akan termasuk orang-orang yang merugi. (QS. Hud: 47)"
+            } , {
+                "id": "1.15",
+                "arab": "اَللّٰهُمَّ إِنِّي أَسۡأَلُكَ نَفۡسًا مُطۡمَـئِـنَّةً بِلِقَآئِكَ وَتَقۡنَعُ بِعَطَآئِكَ وَتَرۡضَى بِقَضَائِكَ يَا رَحۡمٰنُ  يَارَحِيۡمُ  يَاحَلِيۡمُ  يَاكَرِيۡمُ يَا أَحَدُ يَاصَمَدُ يَاحَيُّ  يَا مُحۡيِيۡ يَاحَيُّ يَا قَيُّوۡمُ لَآ إِلٰهَ اِلَّا اَنۡتَ يَا رَبَّنَآ اِنَّا عَبِيۡدُكَ وَفِيۡ سَبِيۡلِكَ اجۡعَلۡ لَّنَا السَّبِيۡلَ إِلَى كُلِّ خَيۡرٍ (اَلۡوِرۡدُ الۡمُصَفَّي الۡمُخۡتَارُ ص.٦٨)",
+                "terjemahan": "Ya Allah, aku mohon jiwa yang tenang dengan berjumpa dengan-Mu dan puas dengan pemberian-Mu dan ridho dengan qadha’-Mu, Wahai Dzat yang Maha Pengasih lagi  Maha Penyayang, Wahai Dzat Yang Maha Penyantun dan Maha Mulia, Wahai Dzat Yang Tunggal dan  tempat bergantung, Yang Maha Hidup dan Yang menghidupkan, wahai Dzat Yang Maha Hidup dan Yang Maha Tegak (mengawasi) Tiada Tuhan selain Engkau, wahai Rabb kami, sesungguhnya kami adalah hamba-Mu dan berada di jalan-Mu, jadikanlah bagi kami jalan menuju kepada setiap kebaikan. (Wirid Al Mushoffa Al Mukhtar hal 68)"
+            } , {
+                "id": "1.16",
+                "arab": "وَلِلّٰهِ الۡاَسۡمَآءُ الۡحُسۡنَى فَادۡعُوۡهُ بِهَا (اَلْاَعۡرَافُ: ١٨٠)",
+                "terjemahan": "Dan milik Allahlah nama-nama yang indah maka hendaklah kalian berdoa dengannya. (Qs. Al A’raf;180)"
+            } , {
+                "id": "1.17",
+                "arab": "يَا أَحَدُ يَاصَمَدُ يَا ذَاالۡجَلَالِ وَالۡإِكۡرَامِ (١١×)",
+                "terjemahan": "Wahai Dzat Yang Tunggal, Wahai Dzat Yang menjadi tempat bergantung, Wahai Dzat Yang memiliki keagungan dan kemuliaan."
+            } , {
+                "id": "1.18",
+                "arab": "اَللّٰهُمَّ إِنِّي أَسۡأَلُكَ إِيۡمَانًا أَهۡتَدِيۡ بِهِ وَنُوۡرًا أَقۡتَدِيۡ بِهِ وَرِزۡقًا حَلَالًا أَكۡتَفِيۡ بِهِ (اَلۡوِرۡدُ الۡمُصَفَّى الۡمُخۡتَارُ ص.٦٤)",
+                "terjemahan": "Ya Allah, aku mohon keimanan yang dapat memberiku  petunjuk dengannya, dan cahaya yang aku mengikuti jejaknya, dan rizki halal yang mencukupiku. "
+            } , {
+                "id": "1.19",
+                "arab": "اَللّٰهُمَّ اجۡعَلۡنِيۡ أُحِبُّكَ بِقَلۡبِيۡ كُلِّهِ وَأَرۡضِيۡكَ بِجُهۡدِ كُلِّهِ (اَلۡوِرۡدُ الۡمُصَفَّى الۡمُخۡتَارُ ص٦٤) ",
+                "terjemahan": "Ya Allah, jadikanlah aku mencintai-Mu dengan sepenuh hatiku, dan ridho kepada-Mu dengan seluruh kemampuanku."
+            } , {
+                "id": "1.20",
+                "arab": "اَللّٰهُمَّ اجۡعَلۡ حُبِّيۡ لَكَ كُلَّهُ وَسَعۡيِيۡ كُلَّهُ فِيۡ مَرۡضَاتِكَ  (اَلۡوِرۡدُ الۡمُصَفَّى الۡمُخۡتَارُ ص٦٤) ",
+                "terjemahan": "Ya Allah, jadikanlah kecintaanku kepada-Mu seluruhnya, dan usahaku  berada dalam keridhoan-Mu"
+            } , {
+                "id": "1.21",
+                "arab": "اَللّٰهُمَّ مَازَوَيۡتَ عَنِّيۡ مِمَّا أُحِبُّ فَاجۡعَلۡهُ قُوَّةً لِيۡ فِيۡمَا تُحِبُّ وَاجۡعَلۡنِيۡ كَمَا تُحِبُّ. (اَلۡوِرۡدُ الۡمُصَفَّى الۡمُخۡتَارُ ص٦٤) ",
+                "terjemahan": "Ya Allah, apa-apa yang Engkau hindarkan dariku berupa sesuatu yang aku cintai jadikanlah ia sebagai kekuatan terhadap apa-apa yang Engkau sukai, dan jadikanlah aku sebagaimana yang Engkau inginkan."
+            } , {
+                "id": "1.22",
+                "arab": "اَللّٰهُمَّ إِنِّي أَسۡأَلُكَ بِأَنَّ لَكَ الۡحَمۡدُ لَآ إِلٰهَ اِلَّا اَنۡتَ الۡمَنَّانُ بَدِيۡعُ السَّمٰوَاتِ وَالۡاَرۡضِ يَا ذَا الۡجَلَالِ وَالۡإِكۡرَاِم (رَوَاهُ النَّسَائى وَاَحۡمَدُ وَابۡنُ حِبَّان) ",
+                "terjemahan": "Ya Allah, aku memohon kepada-Mu dengan segala pujian, tiada Tuhan selain Engkau Yang Maha pemberi, yang menciptakan langit dan bumi, Wahai Dzat Yang Memiliki keagungan dan kemuliaan. (HR. An-Nasa’i, Ahmad dan Ibnu Hibban)"
+            } , {
+                "id": "1.23",
+                "arab": "يَا حَيُّ يَا قَيُّوۡمُ أَسۡأَلُكَ خَشۡيَتَكَ فِيۡ الۡغَيۡبِ وَالشَّهَادَةِ وَأَسۡأَلُكَ كَلِمَةَ الۡحَقِّ فِي الۡغَضَبِ وَالرِّضَى (رَوَاهُ النَّسَائى وَاَحۡمَدُ وَابۡنُ حِبَّان) ",
+                "terjemahan": "Wahai  Dzat Yang Maha Hidup dan Maha mengawasi, aku memohon perasaan takut kepada-Mu baik di waktu ghaib maupun di waktu nyata, aku memohon perkataan  yang benar pada waktu marah  dan ridha. (HR. An-Nasa’i, Ahmad dan Ibnu Hibban)"
+            } , {
+                "id": "1.24",
+                "arab": "وَأَسۡأَلُكَ اۡلقَصۡدَ فِي الۡفَقۡرِ وَالۡغِنَى وَأَسۡأَلُكَ نَعِيۡمًا لَا يَنۡفَدُ، وَأَسۡأَلُكَ الرِّضَى بَعۡدَ الۡقَضَآءِ وَأَسۡأَلُكَ بَرۡدَ الۡعَيۡشِ بَعۡدَ الۡمَوۡتَ (رَوَاهُ النَّسَائى وَاَحۡمَدُ وَابۡنُ حِبَّان)",
+                "terjemahan": "Dan aku memohon kesederhanaan pada waktu miskin dan kaya, aku memohon kepada-Mu nikmat yang tidak  terputus, Dan aku memohon keridhoan setelah adanya ketetapan dan aku memohon  hidup yang damai setelah mati. (HR. An-Nasa’i, Ahmad dan Ibnu Hibban)"
+            } , {
+                "id": "1.25",
+                "arab": "وَأَسۡأَلُكَ لَذَّةَ النَّظۡرِ إِلَى وَجۡهِكَ وَأَسۡأَلُكَ الشَّوۡقَ إِلَى لِقَآئِكَ, فِيۡ غَيۡرِ ضَرٍّ مُضِرَّةٍ وَلَا فِتۡنَةٍ مُضِلَّةٍ اَللّٰهُمَّ زَيِّنَا بِزِيۡنَةِ الۡاِيۡمَانِ, وَاجۡعَلۡنَا هُدَاةً مُهۡتَدِيۡنَ. (رَوَاهُ النَّسَائى وَاَحۡمَدُ وَابۡنُ حِبَّان) ",
+                "terjemahan": "Dan aku memohon kelezatan memandang wajah-Mu, Dan aku memohon kerinduan  bertemu dengan-Mu tanpa kemudharatan yang memudharatkan dan tanpa fitnah yang menyesatkan. Ya Allah, hiasilah kami dengan hiasan iman dan jadikanlah kami  pemberi petunjuk yang mendapat petunjuk. (HR. An-Nasa’i, Ahmad dan Ibnu Hibban)"
+            } , {
+                "id": "1.26",
+                "arab": "اَللّٰهُمَّ إِنِّيۡ أَسۡأَلُكَ رَحۡمَةً مِنۡ عِنۡدِكَ تَهۡدِيۡ بِهَا قَلۡبِيۡ وَتَجۡمَعُ بِهَا اَمۡرِيۡ وَتَلُمُّ بِهَا شَعۡثِيۡ وَتَحۡفَظُ بِهَا غَآئِبِيۡ وَتَرۡفَعُ بِهَا شَاهِدِيۡ وَتُبَيِّضُ بِهَا وَجۡهِيۡ وَتُزَكِّيۡ بِهَا عَمَلِيۡ وَتُلۡهِمُنِيۡ بِهَا رُشۡدِيۡ وَتَرُدُّ بِهَا أُلۡفَتِيۡ وَتَعۡصِمُنِيۡ بِهَا مِنۡ كُلِّ سُوۡءٍ. (اَلۡوِرۡدُ الۡمُصَفَّى الۡمُخۡتَارُ ص.٤٨) ",
+                "terjemahan": "Ya  Allah, aku mohon pada-Mu Rahmat dari sisi-Mu yang dapat memberi  hidayah  hatiku dan dengannya mengum-pulkan urusanku, dan menghimpun kembali urusanku, dan menjagaku diwaktu ghaib dan mengangkat keberadaanku, dan menyinari wajahku dan mensucikan amalku dan mengilhamkanku kepada petunjuk, dan mengembalikan dengannya kelembutanku dan menjagaku dari setiap keburukan. (Wirid Al Mushoffa Al Mukhtar Hal. 48)"
+            } , {
+                "id": "1.27",
+                "arab": " إِنَّ اللّٰهَ وَمَلٰٓئِكَتَهُۥ يُصَلُّوۡنَ عَلَى النَّبِيِّ يٰٓأَيُّهَا الَّذِيۡنَ ءَامَنُوۡا صَلُّوۡا عَلَيۡهِ وَسَلِّمُوۡا تَسۡلِيۡمًا (الأحزاب:٥٦)",
+                "terjemahan": "Sesungguhnya Allah dan para malaikat-Nya bershalawat kepada nabi, wahai orang-orang yang beriman bershalawat-lah  pada nabi dan bersalamlah kepadanya dengan sebenar-benar salam. (QS. Al Ahzab 56)"
+            } , {
+                "id": "1.28",
+                "arab": "اَلسَّلَامُ عَلَيۡكَ اَيُّهَا النَّبِيُّ وَرَحۡمَةُ اللّٰهِ وَبَرَكَاتُهُ (٣×) ",
+                "terjemahan": "Salam kepadamu wahai Nabi beserta rahmat dan barokah Allah. (3x)"
+            } , {
+                "id": "1.29",
+                "arab": "اَللّٰهُمَّ هٰذَا الدُّعَآءُ وَعَلَيۡكَ الۡإِجَابَةُ وَهٰذَا الۡجُهۡدُ وَعَلَيۡكَ التُّكۡلَانُ وَلَاحَوۡلَ وَلَا قُوَّةَ اِلَّا بِكَ (اَلۡوِرۡدُ الۡمُصَفَّى الۡمُخۡتَارُ ص52) ",
+                "terjemahan": "Ya Allah ini adalah do'aku, dan atas-Mu pengabulannya dan ini adalah upayaku yang sungguh-sungguh, maka atas-Mu perlindungan, tiada daya dan kekuatan kecuali bersama-Mu"
+            } , {
+                "id": "1.30",
+                "arab": "سُبۡحٰنَ رَبِّكَ رَبِّ الۡعِزَّةِ عَمَّا يَصِفُوۡنَ. وَسَلَامٌ عَلَى الۡمُرۡسَلِيۡنَ. وَالۡحَمۡدُ لِلّٰهِ رَبِّ الۡعٰلَمِينَ (الصَّآفَّات:١٨٠-١٨٢) ",
+                "terjemahan": "Maha Suci Tuhanmu yang Maha Tinggi, dari apa-apa yang mereka sifatkan dan keselamatan atas para Rasul, dan segala puji bagi Allah, Tuhan semesta alam. (QS. Ash-Shaffat: 180-181)"
+            } 
+        ],
+         "wiridMaghrib" : [
+            {
+                "id": "1.1",
+                "arab": " (رَوَاهُ مُسۡلِمٌ)(×٣)أَسۡتَغۡفِرُ اللّٰهَ ",
+                "terjemahan": "Aku mohon ampun kepada Allah. (3x) (HR. Muslim)"
+            } , {
+                "id": "1.2",
+                "arab": "اَللّٰهُمَّ اَنۡتَ السَّلَامُ وَمِنۡكَ السَّلَامُ تَبَارَكۡتَ يَاذَا الۡجَلَالِ وَالۡإِكۡرَامِ (رَوَاهُ مُسۡلِمٌ)",
+                "terjemahan": "Wahai Allah, Engkau adalah keselamatan dan dari-Mu keselamatan, Maha Suci Engkau, wahai Dzat yang Memiliki keagungan dan kemuliaan. (HR. Muslim)"
+            } , {
+                "id": "1.3",
+                "arab": "اَللّٰهُمَّ أَعِنِّي عَلَى ذِكۡرِكَ وَشُكۡرِكَ وَحُسۡنِ عِبَادَتِكَ ",
+                "terjemahan": "Ya Allah, tolonglah aku untuk mengingat-Mu, bersyukur kepada-Mu dan memperbaiki ibadah kepada-Mu. (HR. Abu Dawud) "
+            } , {
+                "id": "1.4",
+                "arab": " (أَسۡتَغۡفِرُ اللّٰهَ(×٣٣) سُبۡحَانَ اللّٰهِ(٣٣×) اَلۡحَمۡدُ لِلّٰهِ(٣٣×) اَللّٰهُ اَكۡبَرُ(٣٣ ×) (رَوَاهُ مُسۡلِمٌ",
+                "terjemahan": "Aku mohon ampun kepada Allah (33x) Mahasuci Allah (33x) segala puji bagi Allah (33x) Allah Maha Besar (33x)"
+            } , {
+                "id": "1.5",
+                "arab": "اَلۡحَمۡدُ لِلّٰهِ رَبِّ الۡعَالَمِيۡنَ حَمۡدًا يُوَافِيۡ نِعَمَهُ وَيُكَافِيۡ مَزِيۡدَهُ. يَا رَبَّنَا لَكَ الۡحَمۡدُ كَمَا يَنۡبَغِيۡ لِجَلَالِ وَجۡهِكَ وَعَظِيۡمِ سُلۡطَانِكَ (رَوَاهُ ابۡنُ مَاجَه) ",
+                "terjemahan": "Segala puji bagi Allah yang telah menyempurnakan nikmat dan karunia-Nya. Wahai Tuhan kami, bagi-Mu segala puji sesuai keagungan wajah-Mu dan kemegahan kerajaan-Mu. (HR. Ibnu Majah) "
+            } , {
+                "id": "1.6",
+                "arab": "اَللّٰهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى اٰلِ مُحَمَّـدٍ (رَوَاهُ أَصۡحَابُ السُّنَنِ)",
+                "terjemahan": "Ya Allah, sampaikanlah shalawat atas Nabi Muhammad dan atas keluarga Nabi Muhammad. (HR. Ashhabussunan)"
+            } , {
+                "id": "1.7",
+                "arab": "أَعُوۡذُ بِكَلِمَاتِ اللّٰهِ التَّآمَّاتِ مِنۡ شَرِّ مَا خَلَقَ (رَوَاهُ مُسۡلِمٌ) ",
+                "terjemahan": "Aku berlindung dengan kalimat Allah yang sempurna dari keburukan apa-apa yang telah Ia  ciptakan. (3X) (HR. Muslim)"
+            } , 
+            {
+                "id": "1.8",
+                "arab": "Wirid Surat Al Baqarah ayat 1-5: \n\nأَعُوۡذُ بِاللّٰهِ مِنَ الشَّيۡطٰنِ الرَّجِيۡمِ. بسۡمِ اللّٰهِ الرَّحۡمٰنِ الرَّحِيۡمِ الٓـّمٓ  ١ ذٰلِكَ  الۡكِتَابُ لَارَيۡبَ ۛفِيهِۛ هُدًى لِّلۡمُتَّقِيۡنَ ٢ الَّذِيۡنَ  يُؤۡمِنُوۡنَ بِالۡغَيۡبِ وَيُقِيۡمُوۡنَ الصَّلٰوةَ وَمِمَّا رَزَقۡنَا هُمۡ  يُنۡفِقُوۡنَ ٣ وَالَّذِيۡنَ  يُؤۡمِنُوۡنَ بِمَآ أُنۡزِلَ إِلَيۡكَ وَمَآ أُنۡزِلَ مِنۡ قَبۡلِكَ وَبِالۡاٰخِرَةِ هُمۡ يُوۡقِنُوۡنَ ٤ أُولٰٓئِكَ عَلَى هُدًى مِّنۡ رَّبِّهِمۡ وَأُولٰٓئِكَ هُمُ الۡمُفۡلِحُوۡنَ ٥ (رَوَاهُ الدَّارِمِي) ",
+                "terjemahan": "Alif laam miim. (1) Kitab ini (Al Quran) sama sekali tidak ada keraguan di dalamnya, petunjuk bagi orang-orang yang bertaqwa (2) Yaitu orang-orang yang beriman kepada yang ghaib, dan mereka menegakkan shalat, dan dari apa-apa yang kami rizkikan kepada mereka, mereka menginfakkannya (3) Dan orang-orang yang  mereka beriman kepada  apa-apa yang diturunkan kepadamu (Al Quran) dan kepada apa-apa yang  diturunkan sebelum engkau, dan terhadap negri akhirat mereka yakin (4) Mereka itulah berada diatas petunjuk Tuhan mereka, dan mereka itulah orang-orang yang beruntung (QS. Al Baqarah 1-5)"
+            } , {
+                "id": "1.9",
+                "arab": "Wirid Surat Al Baqarah ayat 255-257: \n\nاَللّٰهُ لَآ إِلٰهَ اِلَّا هُوَ الۡحَيُّ الۡقَيُّوۡمُج لَا تَأۡخُذُهُۥ سِنَةٌ وَّلَا نَوۡمٌط لَهُۥ مَا فِي السَّمٰوَاتِ وَمَا فِي  الۡاَرۡضِط مَنۡ ذَا الَّذِيۡ يَشۡفَعُ عِنۡدَهُۥ اِلَّا بِإِذۡنِهِۦط يَعۡلَمُ مَا بَيۡنَ أَيۡدِيۡهِمۡ وَمَا خَلۡفَهُمۡج وَلَا يُحِيۡطُوۡنَ بِشَيۡءٍ مِنۡ عِلۡمِهِۦ اِلَّا بِمَا شَآءَج وَسِعَ كُرۡسِيُّهُ السَّمٰوَاتِ  وَالۡاَرۡضَج وَلَا يَئُوۡدُهُۥ حِفۡظُهُمَا وَهُوَ الۡعَلِيُّ الۡعَظِيۡمُ (٢٥٥)  لَآإِكۡرَاهَ فِي الدِّيۡنِلا قَدۡ تَّبَيَّنَ الرُّشۡدُ مِنَ الۡغَيِّج فَمَنۡ يَّكۡفُرۡ بِالطَّاغُوۡتِ وَيُؤۡمِنۡ بِاللّٰهِ فَقَدِ اسۡتَمۡسَكَ بِالۡعُرۡوَةِ الۡوُثۡقَىج لَاانۡفِصَامَ لَهَا وَاللّٰهُ سَمِيۡعٌ عَلِيۡمٌ٢٥٦ اَللّٰهُ وَلِيُّ الَّذِيۡنَ ءَامَنُوۡا  يُخۡرِجُهُمۡ مِنَ الظُّلُمَاتِ إِلَى النُّوۡرِط وَالَّذِيۡنَ كَفَرُوۡا أَوۡلِيٰآئُهُمُ الطَّاغُوۡتُلا يُخۡرِجُوۡنَهُمۡ مِنَ النُّوۡرِ إِلَى الظُّلُمَاتِط أُولٰٓئِكَ أَصۡحَابُ النَّارِ هُمۡ فِيۡهَا خَالِدُوۡنَ ",
+                "terjemahan": "Allah, tidak ada Tuhan selain Dia, Yang Maha Hidup lagi terus menerus mengurus makhluk-Nya, Tidak menimpanya kantuk dan tidak pula tidur, Kepunyaan-Nya apa-apa yang di langit dan apa-apa yang di bumi, Tidak ada yang dapat memberi syafaat di sisi–Nya (Allah) kecuali dengan izin-Nya. Dia mengetahui apa-apa yang ada di hadapan mereka dan di belakang mereka, dan mereka tidak mengetahui sesuatupun dari ilmu Allah kecuali apa- apa yang Allah kehendaki, Luas singgasana-Nya meliputi langit dan bumi. Dan Allah tidak berat memelihara keduanya dan Dia Maha Tinggi lagi Maha Agung (255) Sama sekali tidak ada paksaan dalam agama (Islam); sungguh petunjuk itu telah jelas dari kesesatan. Maka barang siapa yang kafir  kepada thogut dan beriman kepada Allah, Maka sungguh ia telah berpegang kepada tali yang amat kuat, yang sama sekali tidak akan terputus baginya, Dan Allah Maha Mendengar lagi Maha Mengetahui (256) Allah adalah Pelindung orang-orang yang beriman, Dia  mengeluarkan mereka dari kegelapan kepada cahaya, dan orang-orang yang kafir, pemimpin-pemimpin mereka adalah thogut, Thoghut  itu  mengeluarkan mereka dari cahaya kepada kegelapan, Mereka itulah penghuni-penghuni neraka; mereka kekal di dalamnya. (QS. Al Baqarah 255-257)"
+            } , {
+                "id": "1.10",
+                "arab": " Wirid Surat Al Baqarah ayat 284-286: \n\nلِلّٰهِ مَافِي السَّمٰوَاتِ وَمَا فِي الۡاَرۡضِط وَإِنۡ تُبۡدُوۡا مَا فِيۡ أَنۡفُسِكُمۡ أَوۡ تُخۡفُوۡهُ  يُحَاسِبۡكُمۡ بِهِ اللّٰهُط فَيَغۡفِرُ لِمَنۡ يَّشَآءُ وَيُعَذِّبُ مَنۡ يَّشَآءُط وَاللّٰهُ عَلٰى كُلِّ شَيۡءٍ قَدِيۡرٌ ٢٨٤  ءَامَنَ الرَّسُوۡلُ بِمَآ أُنۡزِلَ إِلَيۡهِ مِنۡ رَبِّهِۦ وَالۡمُؤۡمِنُوۡنَط كُلٌّ ءَامَنَ بِاللّٰهِ وَمَلٰٓئِكَتِهِۦ وَكُتُبِهِۦ وَرُسُلِهِۦلا لَانُفَرِّقُ بَيۡنَ أَحَدٍ مِنۡ رُسُلِهِۦلا وَقَالُوۡا سَمِعۡنَا وَأَطَعۡنَا غُفۡرَانَكَ رَبَّنَا وَإِلَيۡكَ الۡمَصِيۡرُ٢٨٥ لَايُكَلِّفُ اللّٰهُ نَفۡسًا اِلَّاوُسۡعَهَاط لَهَا مَاكَسَبَتۡ وَعَلَيۡهَا مَااكۡتَسَبَتۡط رَبَّنَا لَا تُؤَاخِذۡنَآ إِنۡ نَسِيۡنَآ أَوۡ أَخۡطَأۡنَاج رَبَّنَا وَلَا تَحۡمِلۡ عَلَيۡنَا إِصۡرًا كَمَا حَمَلۡتَهُۥ عَلَى الَّذِيۡنَ مِنۡ قَبۡلِنَاج رَبَّنَا وَلَا تُحَمِّلۡنَا مَا لَا طَاقَةَ لَنَا بِهِۦج وَاعۡفُ عَنَّاج وَاغۡفِرۡ لَنَاط وَارۡحَمۡنَاط أَنۡتَ مَوۡلٰنَا فَانۡصُرۡنَا عَلَى الۡقَوۡمِ الۡكٰفِرِيۡنَج ",
+                "terjemahan": "Milik Allahlah apa-apa yang ada di langit dan apa-apa yang ada di bumi. Dan jika kalian menampakkan apa yang ada dalam diri kalian, atau kalian menyembunyikannya, maka Allah akan menghisab kalian dengannya, Lalu Dia mengampuni orang-orang yang Ia kehandaki dan mengazab orang-orang yang Ia kehandaki, Dan Allah atas segala sesuatu Maha Berkuasa. (284)  Rasul telah beriman kepada apa-apa yang diturunkan kepadanya dari Tuhannya dan demikian pula orang-orang yang beriman.  Semuanya beriman kepada Allah, dan malaikat-malaikat-Nya, kitab-kitab-Nya dan rasul-rasul-Nya. Kami tidak membeda-bedakan seorangpun dari rasul-rasul-Nya. Dan mereka mengatakan: 'Kami dengar dan Kami taat, Ampunan-Mu, wahai Tuhan Kami, dan kepada-Mulah tempat kembali'. (285) Allah tidak membebani seseorang kecuali sesuai dengan kemampuannya, baginya balasan atas apa-apa (kebaikan) yang telah ia kerjakan dan atasnya (siksaan) bagi apa-apa  (keburukan) yang telah ia kerjakan,  Wahai Tuhan Kami, janganlah Engkau siksa kami jika kami lupa atau kami bersalah,  Wahai Tuhan kami, janganlah Engkau bebankan kepada kami beban yang berat, sebagaimana telah Engkau bebankan  kepada orang-orang yang sebelum kami. Wahai Tuhan kami, janganlah Engkau membebankan kepada kami apa-apa yang sama sekali  tidak ada kemampuan atas kami. Ma'afkanlah kami; ampunilah kami; dan rahmatilah kami. Engkaulah penolong kami, maka tolonglah kami terhadap kaum yang kafir. (QS.Al Baqarah 284 –286)"
+            } , {
+                "id": "1.11",
+                "arab": "يَا ذَا الۡجَلَالِ وَالۡاِكۡرَامِ أَمِتۡنَا عَلَى دِيۡنِ الۡإِسۡلَامِ (رَاتِبُ الۡحَدَّاد)",
+                "terjemahan": "Wahai Dzat Yang Memiliki keagungan dan kemuliaan, matikanlah kami dalam agama Islam. (Ratibul Haddad)"
+            } , {
+                "id": "1.11",
+                "arab": "يَا قَوِيُّ يَا مَتِيۡنُ اِكۡفِ شَرَّ الظَّالِمِيۡنَ (رَاتِبُ الۡحَدَّاد)",
+                "terjemahan": "Wahai Dzat Yang Maha Kuat dan Maha kokoh, tahanlah keburukan orang-orang dzalim.(Ratibul Haddad)"
+            } , {
+                "id": "1.13",
+                "arab": "أَصۡلَحَ اللّٰهُ أُمُوۡرَ الۡمُسۡلِمِيۡنَ صَرَفَ اللّٰهُ شَرَّ الۡمُؤۡذِيۡنَ (رَاتِبُ الۡحَدَّاد)",
+                "terjemahan":"Allah memperbaiki urusan orang-orang muslim dan Allah memalingkan keburukan orang-orang yang menyakiti. (Ratibul Haddad)"
+            } , {
+                "id": "1.11",
+                "arab": "يَاعَلِيُّ يَاكَبِيۡرُ يَاعَلِيۡمُ يَا قَدِيۡرُ يَا سَمِيۡعُ يَا بَصِيۡرُ يَا لَطِيۡفُ يَاخَبِيۡرُ (رَاتِبُ الۡحَدَّاد)",
+                "terjemahan": "Wahai Dzat Yang Maha Tinggi, Yang Maha Besar, Yang Maha Mengetahui, Yang Maha Berkuasa, Yang Maha Mendengar, Yang Maha Melihat, Yang Maha Lembut dan Yang Maha Mengetahui. (Ratibul Haddad)"
+            } , {
+                "id": "1.15",
+                "arab": "يَافَارِجَ الۡهَمِّ يَاكَاشِفَ الۡغَمِّ يَا مَنۡ لِعَبۡدِهِ يَغۡفِرۡ وَيَرۡحَمۡ (رَاتِبُ الۡحَدَّاد)",
+                "terjemahan": "Wahai Dzat yang menghilangkan kesusahan dan meng-hilangkan derita, Wahai Dzat yang kepada hamba-Nya mengampuni dan menyayangi. (Ratibul Haddad)"
+            } , {
+                "id": "1.16",
+                "arab": "وَلِلّٰهِ الۡاَسۡمَآءُ الۡحُسۡنَى فَادۡعُوۡهُ بِهَا (الَاعۡرَاف: ١٨٠)",
+                "terjemahan": "Dan miliklah nama-nama yang indah maka berdoalah dengannya (Qs. Al A’raf: 180)"
+            } ,{
+                "id": "1.17",
+                "arab": "يَا عَلِيۡمُ– يَا حَلِيۡمُ – يَا عَلِيُّ- يَا عَظِيۡمُ (١١ ×)",
+                "terjemahan": "Wahai Dzat Yang Maha Mengetahui, wahai Dzat Yang Maha Penyantun, wahai Dzat Yang Maha Tinggi, wahai Dzat Yang Maha Agung. (11x)"
+            } 
+            , {
+                "id": "1.18",
+                "arab": "رَبَّنَآ أَتۡمِمۡ لَنَا نُوۡرَنَا وَاغۡفِرۡ لَنَآ إِنَّكَ عَلَى كُلِّ شَيۡئٍ قَدِيۡرٌ (٣×) (التَّحۡرِيۡمُ: ٨) ",
+                "terjemahan": "Ya Tuhan kami , sempurnakanlah bagi kami cahaya kami (hidayah) dan ampunilah kami, sesungguhnya Engkau atas segala sesuatu berkuasa. (3x) ( QS. At Tahrim: 8)"
+            } , {
+                "id": "1.19",
+                "arab": "اَللّٰهُمَّ إِنِّيۡ ضَعِيۡفٌ فَقَوِّنِيۡ وَإِنِّيۡ ذَلِيۡلٌ فَأَعِزَّنِيۡ وَإِنِّيۡ فَقِيۡرٌ فَأَغۡنِنِيۡ (٣×) (الوِرۡدُ الۡمُصَفَّى الۡمُخۡتَار ص. ٥٥)",
+                "terjemahan": "Ya Allah, sesungguhnya aku lemah maka kuatkanlah aku, sesungguhnya aku hina maka muliakanlah aku sesungguhnya aku miskin maka mampukanlah aku. (3x) "
+            } , {
+                "id": "1.20",
+                "arab": "اَللّٰهُمَّ إِنِّيۡ أَسۡأَلُكَ الثَّبَاتَ فِي الۡاَمۡرِ وَالۡعَزِيۡمَةَ عَلَى الرُّشۡدِ وَأَسۡأَلُكَ شُكۡرَ نِعۡمَتِكَ وَحُسۡنَ عِبَادَتِكَ وَأَسۡأَلُكَ قَلۡبًا سَلِيۡمًا وَّلِسَانًا صَادِقًا وَأَسۡأَلُكَ مِنۡ خَيۡرِ مَا تَعۡلَمُ وَأَعُوۡذُ بِكَ مِنۡ شَرِّمَا تَعۡلَمُ وَأَسۡتَغۡفِرُكَ مِمَّا تَعۡلَمُ وَاَنۡتَ عَلَّامُ الۡغُيُوۡبِ (رَوَاهُ التِّرۡمِذِي)",
+                "terjemahan": "Ya Allah, sesungguhnya aku memohon pada-Mu ketetapan dalam urusan setiap masalah, dan tekad yang kuat dalam petunjuk dan aku memohon kepada-Mu dapat bersyukur atas nikmat-Mu dan memperbagus ibadah kepada-Mu dan aku memohon kepada-Mu hati yang selamat dan lisan yang benar dan aku memohon kepada-Mu dari kebaikan yang Engkau ketahui dan aku berlindung kepada-Mu dari Keburukan yang Engkau ketahui dan aku mohon ampun kepada-Mu dari apa-apa yang Engkau ketahui dan Engkau adalah Maha Mengetahui keghaiban.(HR. Tirmidzi)"
+            } , {
+                "id": "1.21",
+                "arab": "رَبِّيۡ زِدۡنِيۡ عِلۡمًا وَوَسِّعۡ لِيۡ فِيۡ رِزۡقِيۡ وَبَارِكۡ لِيۡ فِيۡمَا رَزَقۡتَنِيۡ وَاجۡعَلۡنِيۡ مَحۡبُوۡبًا فِيۡ قُلُوۡبِ عِبَادِكَ وَعَزِيۡزًا فِيۡ عُيُوۡنِهِمۡ, وَاجۡعَلۡنِيۡ وَجِيۡهًا فِيۡ الدُّنۡيَا وَالۡاٰخِرَةِ وَمِنَ الۡمُقَرَّبِيۡنَ, يَا كَثِـيۡرَ النَّوَالِ يَا حَسَنَ الۡفِعَالِ, يَا قَائِمًا بِلَا زَوَالٍ وَيَا مُبۡدِأً بِلَا مِثَالٍ, فَلَكَ الۡحَمۡدُ وَلَكَ الۡمِنَّةُ وَلَكَ الشَّرَفُ عَلَى كُلِّ حَالٍ",
+                "terjemahan": "Wahai Rabbku, tambahkanlah padaku ilmu dan luaskanlah bagiku rizkiku, dan berkahilah apa-apa yang telah Engkau rizkikan kepadaku, dan jadikanlah aku dicintai pada hati hamba-hamba-Mu, dan mulia dalam pandangan mereka, dan jadikanlah aku sukses didunia maupun  di akhirat, dan jadikanlah aku termasuk orang-orang yang dekat  kepada-Mu, wahai Dzat yang banyak pemberian-Nya, wahai  Dzat yang baik perbuatan-Nya, wahai Dzat yang selalu ada, tak pernah sirna,  wahai Dzat yang memulai penciptaan tanpa contoh, maka bagi-Mu pujian dan bagi-Mu  pemberian dan bagi-Mu kemuliaan atas segala keadaan."
+            } , {
+                "id": "1.22",
+                "arab": "Contoh Tambahan Doa Untuk  Qunut Nazilah: \n\nاَللّٰهُمَّ اهۡدِنَا فِيۡمَنۡ هَدَيۡتَ وَعَافِنَا فِيۡمَنۡ عَافَيۡتَ وَتَوَلَّنَا فِيۡمَنۡ تَولَّيۡتَ وَبَارِكۡ لَنَا فِيۡمَا أَعۡطَيۡتَ وَقِنَا شَرَّ مَا قَضَيۡتَ فَإِنَّكَ تَقۡضِيۡ وَلَا يُقۡضَى عَلَيۡكَ وَإِنَّهُ لَا يَذِلُّ مَنۡ وَالَيۡتَ وَلَا يَعِزُّ مَنۡ عَادَيۡتَ ",
+                "terjemahan": "Ya Allah, berikanlah kami petunjuk sebagaimana orang-orang yang telah Engkau beri hidayah, dan sehatkanlah kami sebagaimana orang-orang yang Engkau beri kesehatan, berikanlah kami kekuasaan sebagaimana orang-orang yang telah Engkau beri kekuasaan, dan berikanlah berkah di dalam apa saja yang Engkau telah berikan, jagalah kami dari keburukan taqdir-Mu, karena sesungguhnya Engkaulah yang menetapkan, dan Engkau tidak ditentukan dan sesungguhnya tidak akan hina orang yang Engkau lindungi dan tidak akan mulia orang yang Engkau musuhi. (HR. Ashabussunan, Ahmad dan Ad Darimiy)"
+            } , {
+                "id": "1.23",
+                "arab": "اَللّٰهُمَّ ادۡفَعۡ عَنَّا الۡبَلَآءَ وَالۡوَبَآءَ وَالۡفَحۡشَآءَ وَالۡمُنۡكَرَ وَالۡمِحَنَ وَالۡفِتَنَ مَا ظَهَرَ مِنۡهَا وَمَا بَطَنَ مِنۡ بَلَدِنَا خَآصَّةً وَمِنۡ بُلۡدَانِ الۡمُسۡلِمِيۡنَ عَآمَّةً",
+                "terjemahan": "Ya Allah, hindarkanlah kami dari bencana, wabah, kekejian, kemungkaran, cobaan-cobaan dan fitnah yang nampak dan yang tidak nampak dari negri kami khususnya dan dari negri-negri orang muslim pada umumnya."
+            } , {
+                "id": "1.24",
+                "arab": "اَللّٰهُمَّ لَاتُمَكِّنِ الۡاَعۡدَآءَ فِيۡنَا وَاجۡعَلۡ ثَأۡرَنَا عَلَى مَنۡ ظَلَمَنَا وَانۡصُرۡنَاعَلَى مَنۡ عَادَانَا ",
+                "terjemahan": "Ya Allah, janganlah Engkau kuasakan musuh-musuh itu atas kami, dan jadikanlah pembalasan kami atas siapa saja yang menganiaya kami, dan menangkanlah kami atas siapa saja yang memusuhi kami. (HR.At Tirmidziy)"
+            } , {
+                "id": "1.25",
+                "arab": "اَللّٰهُمَّ لَا تُسَلِّطۡ عَلَيۡنَا بِذُنُوۡبِنَا مَنۡ لَا يَخَافُكَ وَلَا يَرۡحَمُنَا (رَوَاهُ التَّرۡمِذِي)",
+                "terjemahan": "Ya Allah, disebabkan dosa-dosa kami, janganlah Engkau buat berkuasa atas kami orang-orang yang tak takut pada Engkau dan tak menyayangi kami. (HR. At Tirmidzi)"
+            } , {
+                "id": "1.26",
+                "arab": "اَللّٰهُمَّ أَهۡلِكِ الۡكَفَرَةَ وَالۡمُبۡتَدِعَةَ وَالۡمُشۡرِكِيۡنَ أَعۡدَآءَكَ وَأَعۡدَآءَ الدِّيۡنِ",
+                "terjemahan": "Ya Allah, hancurkanlah orang-orang kafir dan ahli bid’ah, serta orang-orang musyrik, mereka adalah musuh-Mu dan musuh agama"
+            } , {
+                "id": "1.27",
+                "arab": "اَللّٰهُمَّ شَتِّتۡ شَمۡلَهُمۡ وَمَزِّقۡ جَمۡعَهُمۡ وَزَلۡزِلۡ أَقۡدَامَهُمۡ وَأَلۡقِ فِيۡ قُلُوۡبِهِمُ الرُّعۡبَ إِنَّكَ عَلَى كُلِّ شَيۡءٍ قَدِيۡرٌ",
+                "terjemahan": "Ya Allah, pecahkanlah kesatuan mereka, dan retakkanlah kekompakan mereka, dan goncangkanlah pendirian mereka, dan letakkanlah dihati mereka rasa takut. Sesungguhnya Engkau Maha Kuasa atas segala sesuatu"
+            } , {
+                "id": "1.28",
+                "arab": "رَبِّ لَاتَذَرۡ عَلَى الۡاَرۡضِ مِنَ الۡكٰفِرِيۡنَ دَيَّارًا. إِنَّكَ إِنۡ تَذَرۡهُمۡ يُضِلُّوۡا عِبَادَكَ وَلَايَلِدُوۡآ اِلَّا فَاجِرًا كَفَّارًا (نُوح:٢٧)",
+                "terjemahan": "Ya Tuhanku, janganlah Engkau tinggalkan di atas bumi seorangpun diantara orang-orang kafir itu. Sesungguhnya, jika Engkau tinggalkan mereka, niscaya mereka akan menyesatkan hamba-hamba-Mu, dan mereka tiada akan melahirkan anak, kecuali (anak) yang durhaka lagi kafir. (QS. Nuh: 26-27)"
+            } , {
+                "id": "1.29",
+                "arab": "رَبِّ اَدۡخِلۡنِيۡ مُدۡخَلَ صِدۡقٍ وَّأَخۡرِجۡنِيۡ مُخۡرَجَ صِدۡقٍ وَّاجۡعَلۡ لِّيۡ مِنۡ لَّدُنۡكَ سُلۡطَانًا نَّصِيۡرًا ",
+                "terjemahan": "Ya Tuhan kami, masukkanlah kami melalui tempat masuk yang baik/benar, dan keluarkanlah kami melalui tempat keluar yang baik/benar, dan jadikanlah bagi kami kekuasaan dari sisi-Mu yang dapat menolong. (Qs. Al Isra': 80) "
+            } , {
+                "id": "1.30",
+                "arab": "رَبَّنَاءَاتِنَافِي الدُّنۡيَاحَسَنَةً وَّفِي الۡاٰخِرَةِ حَسَنَةً وَّقِنَاعَذَابَ النَّارِ ",
+                "terjemahan": "Ya Allah, berikanlah kepada kami kebaikan di dunia dan di akhirat dan hindarkanlah kami dari azab neraka. (QS. Al Baqarah 201)"
+            } , {
+                "id": "1.31",
+                "arab": "رَبَّنَا تَقَبَّلۡ مِنَّا إنَّكَ أَنۡتَ السَّمِيۡعُ الۡعَلِيۡمُ ",
+                "terjemahan": "Ya Tuhan kami, terimalah do'a permohonan (dari) kami, karena Engkaulah Yang Maha Mendengar lagi Maha Mengetahui. (QS Al Baqarah: 127 )"
+            } , {
+                "id": "1.32",
+                "arab": "اَللّٰهُمَّ هٰذَا الدُّعَآءُ وَعَلَيۡكَ الۡإِجَابَةُ وَهٰذَا الۡجُهۡدُ وَعَلَيۡكَ التُّكۡلَانُ وَلَاحَوۡلَ وَلَا قُوَّةَ اِلَّا بِكَ (الورد المصفى المختار ص.٥٢ )",
+                "terjemahan": "Ya Allah, ini adalah sebuah permohonan dan atas-Mu pengabulannya dan ini adalah kesungguhan, atas-Mu perlindungan, tiada daya dan kekuatan kecuali bersama-Mu. (Wirid Al Mushoffa Al Mukhtar hal 52)"
+            } , {
+                "id": "1.33",
+                "arab": "سُبۡحٰنَ رَبِّكَ رَبِّ الۡعِزَّةِ عَمَّا يَصِفُوۡنَ. وَسَلَامٌ عَلَى  الۡمُرۡسَلِيۡنَ. وَالۡحَمۡدُ لِلّٰهِ رَبِّ الۡعٰلَميۡنَ ",
+                "terjemahan": "Maha Suci Tuhanmu yang Maha Tinggi, dari apa-apa yang mereka sifatkan dan keselamatan atas para Rasul, dan segala puji bagi Allah, Tuhan semesta alam. (QS. Ash-Shaffat:180-182) "
+            } 
+         ],
+         "wiridIsya" :[
+            {
+                "id": "1.1",
+                "arab": "(×٣) أَسۡتَغۡفِرُ اللّٰهَ ",
+                "terjemahan": "Aku mohon ampun kepada Allah. (3x) (HR. Muslim)"
+            },   {
+                "id": "1.2",
+                "arab": "اَللّٰهُمَّ اَنۡتَ السَّلَامُ وَمِنۡكَ السَّلَامُ تَبَارَكۡتَ يَاذَا الۡجَلَالِ وَالۡإِكۡرَامِ (رَوَاهُ مُسۡلِمٌ)",
+                "terjemahan": "Wahai Allah, Engkau adalah keselamatan dan dari-Mu keselamatan, Maha Suci Engkau, wahai Dzat yang Memiliki keagungan dan kemuliaan. (HR. Muslim)"
+            },   {
+                "id": "1.3",
+                "arab": "اَللّٰهُمَّ أَعِنِّي عَلَى ذِكۡرِكَ وَشُكۡرِكَ وَحُسۡنِ عِبَادَتِكَ",
+                "terjemahan": "Ya Allah, tolonglah aku untuk mengingat-Mu, bersyukur kepada-Mu dan memperbaiki ibadah kepada-Mu. (HR. Abu Dawud)"
+            },   {
+                "id": "1.4",
+                "arab": "أَسۡتَغۡفِرُ اللّٰهَ(×٣٣) سُبۡحَانَ اللّٰهِ(٣٣×) اَلۡحَمۡدُ لِلّٰهِ(٣٣×) اَللّٰهُ اَكۡبَرُ(٣٣ ×) ",
+                "terjemahan": "Aku mohon ampun kepada Allah (33x) Mahasuci Allah (33x) Segala Puji bagi Allah (33x) Allah Maha Besar (33x)"
+            },   {
+                "id": "1.5",
+                "arab": "اَلۡحَمۡدُ لِلّٰهِ رَبِّ الۡعَالَمِيۡنَ حَمۡدًا يُوَافِيۡ نِعَمَهُ وَيُكَافِيۡ مَزِيۡدَهُ. يَا رَبَّنَا لَكَ الۡحَمۡدُ كَمَا يَنۡبَغِيۡ لِجَلَالِ وَجۡهِكَ وَعَظِيۡمِ سُلۡطَانِكَ ",
+                "terjemahan": "Segala puji bagi Allah yang telah menyempurnakan nikmat dan karunia-Nya. Wahai Tuhan kami, bagi-Mu segala puji sesuai keagungan wajah-Mu dan kemegahan kerajaan-Mu. (HR. Ibnu Majah) "
+            },   {
+                "id": "1.6",
+                "arab": "اَللّٰهُمَّ صَلِّ عَلَى مُحَمَّدٍ وَعَلَى اٰلِ مُحَمَّـدٍ (رَوَاهُ أَصۡحَابُ السُّنَنِ)",
+                "terjemahan": "Ya Allah, sampaikanlah shalawat atas Nabi Muhammad dan atas keluarga Nabi Muhammad. (HR. Ashhabussunan)"
+            },   {
+                "id": "1.7",
+                "arab": "Wirid Surat Al Ikhlas, Al Falaq dan An Naas: \n\nأَعُوۡذُ بِاللّٰهِ مِنَ الشَّيۡطٰنِ الرَّجِيۡمِ. بسۡمِ اللّٰهِ الرَّحۡمٰنِ الرَّحِيۡمِ قُلۡ هُوَ اللّٰهُ أَحَدٌ ١ اللّٰهُ الصَّمَدُ ٢ لَمۡ يَلِدۡ وَلَمۡ يُولَدۡ ٣ وَلَمۡ يَكُنۡ لَهُۥ  كُفُوًاأَحَدٌ   ",
+                "terjemahan": "Aku berlindung kepada Allah dari godaan syaithan yang terkutuk. Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang. Katakanlah Dialah Allah Yang Maha Esa. Allah tempat bergantung. Tidak beranak dan tidak pula diperanakkan. Dan tidak ada yang setara bagi-Nya satupun atau seorangpun. (Qs. Al Ikhlas1-4) "
+            },   {
+                "id": "1.8",
+                "arab": "بسۡمِ اللّٰهِ الرَّحۡمٰنِ الرَّحِيۡمِ.  قُلۡ أَعُوذُ بِرَبِّ الۡفَلَقِ ١ مِنۡ شَرِّ مَا خَلَقَ ٢ وَمِنۡ شَرِّ غَاسِقٍ إِذَا وَقَبَ ٣ وَمِنۡ شَرِّ النَّـفّٰـثٰتِ فِي الۡعُقَدِ ٤ وَمِنۡ شَرِّ حَاسِدٍ إِذَا حَسَدَ ",
+                "terjemahan": "Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang. Katakanlah aku berlindung kepada Tuhan yang menguasai waktu subuh. Dari keburukan apa-apa yang Ia telah ciptakan. Dan dari keburukan malam apabila gelap gulita. Dan dari keburukan hembusan-hembusan tukang sihir pada buhul-buhul. Dan dari keburukan orang yang dengki apabila ia dengki. (QS. Al Falaq 1-5)"
+            },   {
+                "id": "1.9",
+                "arab": "بسۡمِ اللّٰهِ الرَّحۡمٰنِ الرَّحِيۡمِ.  قُلۡ أَعُوۡذُ بِرَبِّ النَّاسِ١ مَلِكِ النَّاسِ ٢ إِلٰهِ النَّاسِ ٣ مِنۡ شَرِّ الۡوَسۡوَاسِ الۡخَنَّاسِ ٤ الَّذِي يُوَسۡوِسُ فِيۡ صُدُوۡرِ النَّاسِ ٥ مِنَ الۡجِنَّةِ وَالنَّاسِ    ",
+                "terjemahan": "Dengan nama Allah Yang Maha Pengasih lagi Maha Penyayang. Katakanlah: aku berlindung kepada Tuhan manusia. Raja manusia. Sesembahan manusia. Dari keburukan bisikan-bisikan yang biasa bersembunyi. Yang membisik-bisikkan ke dalam dada manusia. Dari jenis jin dan manusia. (QS. An Naas ayat 1-6)"
+            },   {
+                "id": "1.10",
+                "arab": "اَللّٰهُمَّ اهۡدِنِيۡ لِاَحۡسَنِ الۡاَعۡمَالِ وَالۡاَخۡلَاقِ لَايَهۡدِي لِاَحۡسَنِهَا اِلَّا اَنۡتَ وَاصۡرِفۡ عَنِّيۡ سَيِّئَهَا لَايَصْرِفُ عَنِّيۡ سَيِّئَهَا اِلَّا اَنۡتَ ",
+                "terjemahan": "Ya Allah,  berilah aku hidayah untuk memperbagus amal dan akhlak, tidak ada yang dapat memberi hidayah untuk memperbaikinya kecuali Engkau, dan  palingkanlah aku dari keburukannya dan tidak ada yang dapat memalingkanku dari  keburukannya kecuali Engkau. (HR. Muslim)"
+            },   {
+                "id": "1.11",
+                "arab": "اَللّٰهُمَّ اَصۡلِحۡ لِيۡ دِيۡنِيۡ وَوَسِّعۡ لِيۡ فِيۡ دَارِيۡ وَبَارِكۡ لِيۡ فِيۡ رِزۡقِي",
+                "terjemahan": "Ya Allah perbaikilah agamaku  dan luaskanlah rumahku dan berkahilah rizkiku."
+            },   {
+                "id": "1.12",
+                "arab": "اَللّٰهُمَّ اِنِّي أَعُوۡذُ بِكَ مِنَ الۡعَجۡزِ وَالۡكَسَلِ وَالۡجُبۡنِ وَالۡبُخۡلِ وَالۡهَرَمِ  وَالقَسۡوَةِ  وَالۡغَفۡلَةِ وَالۡعَيۡلَةِ  وَالذِّلَّةِ  وَالۡمَسۡكَنَةِ  وَأَعُوۡذُ بِكَ مِنَ الۡفَقۡرِ وَالۡكُفۡرِ وَالۡفُسُوۡقِ وَالشِّقَاقِ وَالنِّفَاقِ  وَالسُّمۡعَةِ  وَالرِّيَآءِ وَأَعُوۡذُ بِكَ مِنَ الصَّمَمِ وَالۡبَكَمِ وَالۡجُنُوۡنِ وَالۡجُذَامِ وَالۡبَرَصِ وَسَيِّئِ الۡاَسۡقَامِ",
+                "terjemahan": "Ya Allah, aku berlindung kepada-Mu dari kelemahan, kemalasan, sifat pengecut, kekikiran, pikun, kekerasan hati, kelalaian, berat tanggungan, kehinaan dan kerendahan. Dan aku berlindung kepada-Mu dari kefakiran, kekufuran, kefasikan, perpecahan, kemunafikan, sum'ah (memper-dengar-dengarkan amal), riya’ (memperlihat-lihatkan). Dan aku berlindung kepada-Mu dari  tuli, bisu, gila, lepra, belang, dan keburukan berbagai penyakit. (HR. Al Hakim)"
+            },   {
+                "id": "1.13",
+                "arab": "اَللّٰهُمَّ اٰتِ نَفۡسِيۡ تَقۡوَاهَا وَزَكِّهَا اَنۡتَ خَيۡرُ مَنۡ زَكَّاهَا اَنۡتَ وَلِيُّهَا وَمَوۡلَاهَا ",
+                "terjemahan": "Ya Allah, berikanlah pada jiwaku ketakwaannya dan sucikanlah ia, Engkau adalah sebaik-baik Dzat yang mensucikannya, Engkau adalah pelindungnya dan penguasanya. (HR. Muslim)"
+            },   {
+                "id": "1.14",
+                "arab": "اَللّٰهُمَّ إِنِّيۡ أَسۡأَلُكَ حُبَّكَ وَحُبَّ مَنۡ يُحِبُّكَ وَحُبَّ كُلِّ عَمَلٍ يُقَرِّبُنِيۡ إِلَى حُبِّكَ ",
+                "terjemahan": "Ya Allah, aku memohon kepada-Mu cinta-Mu dan kecintaan orang-orang yang mencintai-Mu dan mecintai setiap amal yang mendekatkanku kepada cinta-Mu. (Wirid Al-Mushoffa Al Mukhtar hal. 42)"
+            },   {
+                "id": "1.15",
+                "arab": "اَللّٰهُمَّ حَبِّبۡنِيۡ إِلَيۡكَ وَإِلَى مَلٰٓئِكَتِكَ وَأَنۡبِيَائِكَ وَجَمِيۡعِ خَلۡقِكَ",
+                "terjemahan": "Ya Allah, buatlah aku mencintai-Mu dan mencintai malaikat-Mu, mencintai nabi-nabi-Mu dan mencintai  semua ciptaan-Mu. (Wirid Al-Mushoffa AlMukhtar hal. 42)"
+            },   {
+                "id": "1.16",
+                "arab": "اَللّٰهُمَّ اجۡعَلۡنِيۡ صَبُوۡرًا وَاجۡعَلۡنِيۡ شَكُوۡرًا, وَاجۡعَلۡنِيۡ فِيۡ عَيۡنِيۡ صَغِيۡرًا وَفِيۡ أَعۡيُنِ النَّاسِ كَبِيۡرًا, رَبِّ اغۡفِرۡ وَارۡحَمۡ وَاهۡدِنِيۡ السَّبِيۡلَ الۡاَقۡوَمَ",
+                "terjemahan": "Ya Allah, jadikanlah aku orang yang sabar dan bersyukur dan jadikanlah aku dalam pandanganku kecil sedangkan pada pandangan manusia besar, ya Rabbi ampunilah aku, rahmatilah dan berilah petunjuk kepadaku jalan lurus. (Wirid Al-Mushoffa Al Mukhtar hal. 43)"
+            },   {
+                "id": "1.17",
+                "arab": "اَللّٰهُمَّ إِنّيۡ أَسۡأَلُكَ فَوَاتِحَ الۡخَيۡرِ وَخَوَاتِمَهُ وَجَوَامِعَهُ وَأَوَّلَهُ وَاٰخِرَهُ وَظَاهِرَهُ وَبَاطِنَهُ وَالدَّرَجَاتِ الۡعُلَى مِنَ الۡجَنَّةِ ",
+                "terjemahan": "Ya Allah, aku memohon kepada-Mu pembuka kebaikan dan penutupannya, pengumpulan dari kebaikan, awal dan akhir kebaikan, lahir dan bathin kebaikan, dan aku memohon derajat-derajat yang tinggi dari surga. (Wirid Al-Mushoffa AlMukhtar hal. 44)"
+            },   {
+                "id": "1.18",
+                "arab": "اَللّٰهُمَّ إِنِّيۡ أَسۡأَلُكَ أَنۡ تَرۡفَعَ ذِكۡرِيۡ وَتَضَعَ وِزۡرِيۡ وَتُطَهِّرَ قَلۡبِيۡ وَتُحَصِّنَ فَرۡجِيۡ وَتَغۡفِرَ لِيۡ ذَنۡبِيۡ وَأَسۡأَلُكَ الدَّرَجَاتِ الۡعُلَى مِنَ الۡجَنَّةِ ",
+                "terjemahan": "Ya Allah, aku memohon kepada-Mu untuk mengangkat sebutanku  dan menghilangkan beban-bebanku (dosa-dosaku) dan mensucikan hatiku dan menjaga kemaluanku dan mengampuni dosa-dosaku dan aku memohon derajat-derajat yang tinggi dari surga. (Wirid Al-Mushoffa Al Mukhtar hal. 44)"
+            },   {
+                "id": "1.19",
+                "arab": "اَللّٰهُمَّ إِنِّيۡ أَسۡأَلُكَ أَنۡ تُبَارِكَ لِيۡ فِيۡ سَمۡعِيۡ وَفِيۡ بَصَرِيۡ وَفِيۡ رُوۡحِيۡ وَفِيۡ خَلۡقِيۡ وَفِيۡ أَهۡلِيۡ وَفِيۡ مَحۡيَايَ وَفِيۡ عَمَلِيۡ وَتَقَبَّلۡ حَسَنَاتِيۡ وَأَسۡأَلُكَ الدَّرَجَاتِ الۡعُلَى مِنَ الۡجَنَّةِ",
+                "terjemahan": "Ya Allah, aku memohon kepada-Mu agar Engkau memberkahiku pada pendengaranku dan penglihatanku, dan memberkahiku pada ruhku dan penciptaanku dan memberkahiku pada keluargaku, kehidupanku serta amalku, dan  terimalah kebaikan-kebaikanku dan aku memohon kepada-Mu derajat yang tinggi dari surga."
+            },   {
+                "id": "1.20",
+                "arab": "اَللّٰهُمَّ إِنِّي أَعُوۡذُ بِكَ مِنۡ جَهۡدِ الۡبَلَآءِ وَدَرَكِ الشِّقَآءِ وَسُوۡءِ الۡقَضَآءِ وَشَمَاتَةِ الۡاَعۡدَاءِ ",
+                "terjemahan": "Ya Allah, aku berlindung dari beratnya cobaan dan penderitaan yang menimpa dan buruknya taqdir dan terpedaya musuh. (HR. Bukhari)"
+            },  {
+                "id": "1.21",
+                "arab": "اَللّٰهُمَّ يَامُقَلِّبَ الۡقُلُوۡبِ, ثَـبِّتۡ  قَلۡبِيۡ عَلَى دِيۡنِكَ (٣×)",
+                "terjemahan": "Wahai Dzat yang membolak-balikkan hati, tetapkanlah hatiku atas agama-Mu. (3x) (HR. At Tirmidzi)"
+            },   {
+                "id": "1.22",
+                "arab": "يَا رَحۡمٰنُ- يَا رَحِيۡمُ -يَا مَالِكُ -يَا قُدُّوۡسُ (×١١ )",
+                "terjemahan": "Wahai Dzat yang Maha Pengasih, Wahai Dzat yang Maha Penyayang, Wahai Dzat yang maha Merajai, Wahai Dzat yang Maha Suci"
+            },   {
+                "id": "1.23",
+                "arab": "يَالَطِيۡفًا بِخَلۡقِهِ, يَاعَلِيۡمًا بِخَلۡقِهِ, يَاخَبِيۡرًا بِخَلۡقِهِ, اُلۡطُفۡ بِنَا يَالَطِيۡفُ يَاعَلِيۡمُ يَا خَبِيۡرُ (٣×)",
+                "terjemahan": "Wahai Dzat, Yang Maha Lembut terhadap ciptaan-Nya, Yang Maha Mengetahui terhadap ciptaan-Nya,  Yang Maha Mengetahui dengan teliti terhadap ciptaan-Nya, lembutlah kepada kami wahai Dzat Yang Maha Lembut, Yang Maha Mengetahui, dan Yang Maha Teliti. (3X)"
+            },   {
+                "id": "1.24",
+                "arab": "يَا لَطِيۡفًا لَمۡ يَزَلۡ اُلۡطُفۡ بِنَا فِيۡمَا نَزَلَ إِنَّكَ لَطِيۡفٌ لَمۡ تَزَلۡ اُلۡطُفۡ بِنَا وَالۡمُسۡلِمِيۡنَ (٣ ×)",
+                "terjemahan": "Wahai Dzat Yang Maha Lembut, yang tidak pernah sirna, lembutlah kepada kami terhadap apa-apa yang turun (musibah/cobaan), sesungguhnya Engkau Yang Maha Lembut yang tak pernah  sirna, lembutlah kepada kami dan kepada kaum muslimin. (3X)"
+            },   {
+                "id": "1.25",
+                "arab": "اَللّٰهُمَّ أَعۡطِنِيۡ إِيۡمَانًا صَادِقًا، وَيَقِيۡنًا لَيۡسَ بَعۡدَهُ كُفۡرٌ وَرَحۡمَةً أَنَالُ بِهَا شَرَفَ كَرَامَتِكِ فِي الدُّنۡيَا وَالۡاٰخِرَةِ",
+                "terjemahan": "Ya Allah, berikan kepadaku iman yang benar, dan keyakinan yang tidak ada kekufuran sesudahnya  dan rahmat yang dengannya aku mendapat kemuliaan karomah-Mu di dunia dan akhirat."
+            },   {
+                "id": "1.26",
+                "arab": "اَللّٰهُمَّ إِنِّيۡ ضَعِيۡفٌ فَقَوِّنِيۡ وَإِنِّيۡ ذَلِيۡلٌ فَأَعِزَّنِيۡ وَإِنِّيۡ فَقِيۡرٌ فَأَغۡنِنِيۡ (3 ×) (الورد المصفى المختار ص. ٥٥)",
+                "terjemahan": "Ya Allah, sesungguhnya aku lemah maka kuatkanlah aku, sesungguhnya aku hina maka muliakanlah aku, sesungguhnya aku miskin maka kayakanlah aku. (3x) (Wirid Al Mushoffa Al Mukhtar hal. 55)"
+            },   {
+                "id": "1.27",
+                "arab": "اَللّٰهُمَّ اغۡفِرۡلَنَا وَارۡحَمۡنَا وَارۡضَ عَنَّا وَتَقَبَّلۡ مِنَّا وَأَدۡخِلۡنَا الۡجَنَّةَ وَنَجِّنَا مِنَ النَّارِ وَأَصۡلِحۡ لَنَا شَأۡنَنَا كُلَّهُ",
+                "terjemahan": "Ya Allah, ampunilah kami, rahmatilah kami, ridhoilah kami, dan terimalah do'a-do'a kami, masukkanlah kami dalam surga dan selamatkanlah kami dari neraka dan perbaikilah keadaan kami seluruhnya. (3x)"
+            },   {
+                "id": "1.28",
+                "arab": "رَبَّنَا ءَاتِنَا فِي الدُّنۡيَا حَسَنَةً وَّفِي الۡاٰخِرَةِ حَسَنَةً وَّقِنَا عَذَابَ النَّارِ (البقرة ٢٠١)",
+                "terjemahan": "Ya Allah, berikanlah kepada kami kebaikan di dunia dan di akhirat dan hindarkanlah kami dari azab neraka. (QS. Al Baqarah 201)"
+            },   {
+                "id": "1.29",
+                "arab": "اَللّٰهُمَّ هٰذَا الدُّعَآءُ وَعَلَيۡكَ الۡإِجَابَةُ وَهٰذَا الۡجُهۡدُ وَعَلَيۡكَ التُّكۡلَانُ وَلَاحَوۡلَ وَلَا قُوَّةَ اِلَّا بِكَ ",
+                "terjemahan": "Ya Allah, ini adalah sebuah permohonan dan atas-Mu pengabulannya dan ini adalah kesungguhan, atas-Mu perlindungan, tiada daya dan kekuatan kecuali bersama-Mu."
+            },   {
+                "id": "1.30",
+                "arab": "سُبۡحٰنَ رَبِّكَ رَبِّ الۡعِزَّةِ عَمَّا يَصِفُوۡنَ. وَسَلَامٌ عَلَى الۡمُرۡسَلِيۡنَ. وَالۡحَمۡدُ لِلّٰهِ رَبِّ الۡعٰلَمِينَ  ",
+                "terjemahan": "Maha Suci Tuhanmu yang Maha Tinggi, dari apa-apa yang mereka sifatkan dan keselamatan atas para Rasul, dan segala puji bagi Allah, Tuhan semesta alam. (QS. Ash-Shaffat: 180-182)"
+            }
+         ]
+
+}
