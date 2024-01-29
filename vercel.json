@@ -7,9 +7,10 @@
       }
     ],
     "routes": [
-      {
-        "src": "/(.*)",
-        "dest": "index.js"
-      }
+        { "src": "/", "dest": "/" },
+        { "src": "/doa-bab1", "dest": "/" },
+        { "src": "/doa-bab2", "dest": "/" },
+        { "src": "/doa-bab3", "dest": "/" },
+        { "src": "/doa-bab4", "dest": "/" }
     ]
 }
